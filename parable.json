@@ -2,7 +2,7 @@
 	"storymap": {
 	  "attribution": "",
 	  "call_to_action": false,
-	  "zoomify": false,
+	  "zoomify": true,
 	  "slides": [
 		{
 		  "date": "",
@@ -41,7 +41,7 @@
     {
         "date": "3/29/2024 19:30:41",
         "media": {
-            "url": "https://images.unsplash.com/photo-1483968049578-867b9ad94034?q=80&w=3544&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "url": "assets/anna-popovic-zZkMki0yH6I-unsplash.jpg",
             "caption": "Picture captured of the fire that notified those nearby of the situation in Lucama.",
             "credit": "Free to use under the Unsplash License - Anna Popovi\u0107"
         },
