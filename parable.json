@@ -23,7 +23,7 @@
 		{
         "date": "3/28/2024 9:15:27",
         "media": {
-            "url": "https://images.unsplash.com/photo-1644339664035-2266f02f52cc?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "url": "assets/photo-1644339664035-2266f02f52cc.jpg",
             "caption": "Waterfalls in Falls Park: beautiful, but ridden with disease. ",
             "credit": "Free to use under the Unsplash License"
         },
@@ -59,7 +59,7 @@
     {
         "date": "3/29/2024 21:58:49",
         "media": {
-            "url": "https://images.unsplash.com/photo-1495433923968-85c6751d2df6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "url": "assets/photo-1495433923968-85c6751d2df6.jpeg",
             "caption": "Staff have already begun the closing process at the Smith Federal Medical Center in Las Vegas.",
             "credit": "Go to Kenny Eliason's profile Kenny Eliason neonbrand"
         },
@@ -77,19 +77,37 @@
     {
         "date": "3/30/2024 15:31:27",
         "media": {
-            "url": "https://images.unsplash.com/photo-1511514323702-88e7e52f5223?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "url": "assets/photo-1511514323702-88e7e52f5223.jpg",
             "caption": "A dust-ridden potato farm. ",
             "credit": "Photo By Mattieu Joannon "
         },
         "location": {
-            "lat": null,
-            "lon": null,
+            "lat": 43.04216313653528,
+            "lon": -113.87317427135451,
             "line": true,
             "zoom": 18
         },
         "text": {
             "headline": "CROPS FAIL AGAIN\u2014Potato Belt Exodus Continues",
             "text": "At 08:43 am DST, potato harvesters in Idaho Falls, ID, report sweeping crop failure across the potato belt. After rampant wildfires perpetuated by illegal civilian practice intensified an atmospheric greenhouse effect, The region experienced a temperature drop by 3C, causing potato crops froze over and fail to sprout. This marks the 4th consecutive year that the already tattered potato industry has experienced a net loss in potato production. Many farmers are now moving northward, abandoning acres of once fertile land to the dust storms that now blight the terrain in warmer months. \u201cThere\u2019s nothing for us here,\u201d said Rick Hutchins, 64, who spent his whole life harvesting and planting in Snake River Plain. <br><br>\tThough sparsely populated before the collapse, the potato belt was nonetheless subject to an economic paradigm shift: today, farmers no longer farm for money, they farm for food. And if much, or worse all of their crops continue to fail, farmers will have no food to put on the table. For anyone. Period. <br><br>\tNEW in SCIENCE: President Donner authorizes a new government sanctioned bioengineering program. Using carbon capture technology, the partner organization \u201cClearSkye\u201d will pilot a fleet of low-earth-orbit satellites to deploy a web of heat-resistant foil to filter and extract carbon from the upper atmosphere. A successful implementation would see millions of metric tons of CO2 relieved from the atmosphere, mitigating the risk of greenhouse winter effects and ensuring the livelihood of earth\u2019s vulnerable plant life. <br><br>"
+        }
+    },
+    {
+        "date": "3/30/2024 15:31:27",
+        "media": {
+            "url": "assets/pexels-photo-3743542.jpeg",
+            "caption": "Armed U.S. National Guard convoy moving out of San Francisco. ",
+            "credit": "Ivan Hassib"
+        },
+        "location": {
+            "lat": 37.7750410235906, 
+            "lon": -122.44515710640984,
+            "line": true,
+            "zoom": 18
+        },
+        "text": {
+            "headline": "NATIONAL GUARD WITHDRAWN, ‘CONTROLLED’ CARPET BOMBING OF SAN FRANCISCO GIVES ‘CIVILIANS’ 72 HOURS TO EVACUATE",
+            "text": "December 23, 2027<br><br>The bloody, 130 day long battle for San Francisco ended yesterday evening, following the evacuation of the National Guard, and announcement that in 72 hours the city would be reduced to rubble. In his statement regarding his decision to bomb San Francisco, President Donner said “After 130 days of heavy casualties on both sides, against no one enemy or leader, it is clear that we must attack this weed at its root. I will not stand by idly as drug-fueled mobs of anti-American terrorists destroy our country. The American way is to rebuild, in that spirit, our top priority will be rebuilding San Francisco, and expanding this program nationally!” Following his statement, Donner issued an Executive Order which establishes a system to rank the moral standing of populations, by city, to determine whether deploying the National Guard would restore order. Critics warn that government’s decision to exercise military force on their own citizens would set a bad precedent, but Sandra Power, Professor of Human Rights at Harvard, and the President’s Chief Advisor on the National Security Council, dismissed these concerns saying, “We have to save the children; it is the most humane thing to do.” "
         }
     }
 	  ],
