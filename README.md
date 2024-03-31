@@ -17,3 +17,6 @@ You can also host the JSON in a Github Gist, which might make it easer for team 
 
 * [Demo StoryMap](https://samplereality.github.io/storymap/)
 * [Demo JSON](https://gist.github.com/samplereality/4b24d467450631c59c65b72659408b14) in a Gist
+
+## Published StoryMap
+[The Wider World of **Parable of the Sower**](https://davidsoncoding.github.io/parable_of_the_sower/)
