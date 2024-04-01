@@ -109,6 +109,60 @@
             "headline": "NATIONAL GUARD WITHDRAWN, ‘CONTROLLED’ CARPET BOMBING OF SAN FRANCISCO GIVES ‘CIVILIANS’ 72 HOURS TO EVACUATE",
             "text": "December 23, 2027<br><br>The bloody, 130 day long battle for San Francisco ended yesterday evening, following the evacuation of the National Guard, and announcement that in 72 hours the city would be reduced to rubble. In his statement regarding his decision to bomb San Francisco, President Donner said “After 130 days of heavy casualties on both sides, against no one enemy or leader, it is clear that we must attack this weed at its root. I will not stand by idly as drug-fueled mobs of anti-American terrorists destroy our country. The American way is to rebuild, in that spirit, our top priority will be rebuilding San Francisco, and expanding this program nationally!” Following his statement, Donner issued an Executive Order which establishes a system to rank the moral standing of populations, by city, to determine whether deploying the National Guard would restore order. Critics warn that government’s decision to exercise military force on their own citizens would set a bad precedent, but Sandra Power, Professor of Human Rights at Harvard, and the President’s Chief Advisor on the National Security Council, dismissed these concerns saying, “We have to save the children; it is the most humane thing to do.” "
         }
+    },
+    {
+        "date": "3/31/2024 19:35:52",
+        "media": {
+            "url": "assets/photo-1665918978735-519c6f9d5434.jpg",
+            "caption": "the last known image of Kaho'lawe before its submersion",
+            "credit": "Published on October 16, 2022 DJI, FC3170 Free to use under the Unsplash License"
+        },
+        "location": {
+            "lat": 20.552769250262607,  
+            "lon": -156.59229924977248,
+            "line": true,
+            "zoom": 18
+        },
+        "text": {
+            "headline": "HAWAII'S SMALLEST ISLAND FINALLY SINKS!",
+            "text": "After over a decade of holding on to nothing but the most raised area of the land- about 20 mi^2- the few residents of Hawaii's smallest island, Kaho'olawe have finally been forced to evacuate their beloved home. The tiny island had been sinking at an imperceptible rate for years, when the combined effects of the pacific ocean earthquakes and the heatwaves of the late twenty-tens caused it to begin sinking at an alarmingly rapid pace. The final tip of the island was reported to be fully submerged by 22:17. Because of the last inhabitants of Kaho’olawe’s inability to quickly call the coast guard, twelve people have unfortunately perished. It was young  Stacy Mcdonald (21) who finally alerted authorities from her fishing boat off the coast of Maui. Stacy reported to have seen at least two small lifeboats relaying survivors off of the island moments after it was submerged. The survivors now reside on Maui, Hawaii's second largest island, which is projected to sink in the early twenty-forty’s. Kaho’olawe’s sinking marks the sixteenth island to have sunk within the past five years. Will all dry land eventually sink? How long do we have? Should we be seeking high land in preparation? Only time will tell. "
+        }
+    },
+    {
+        "date": "3/31/2024 19:35:57",
+        "media": {
+            "url": "assets/photo-1665918978735-519c6f9d5434.jpg",
+            "caption": "A prisoner breaks the wired fence escaping the maximum security prison.",
+            "credit": "Credit:ozgurdonmaz "
+        },
+        "location": {
+            "lat": 29.964440,   
+            "lon": -90.064505,
+            "line": true,
+            "zoom": 18
+        },
+        "text": {
+            "headline": "It’s Over for New Orleans",
+            "text": "Disaster continues all over the United States. New Orleans has become one of the affected cities. If you thought Hurricane Katrina wasn’t enough for this city, you’ll think once again about what had just happened. After Hurricane Katrina in 2005, New Orleans was flooded. Thousands of people lost their homes and jobs which left the population of New Orleans to be cut in half. Those individuals who stayed faced the economic challenges of living in poverty-stricken communities which continued with Hurricane Laura in 2020. Political issues have not helped the state of the city either. Poverty has left the city in shambles with everyone turning to crime. Homicide levels have increased to the point where Louisiana State Penitentiary has filled up with more inmates than officers. This week prisoners have revolted killing all officers while escaping the 18,000-acre prison. The prisoners have headed to New Orleans as the epicenter of their future endeavors. Their freedom has allowed them to steal and kill anyone who will get in their way. With over 7,000 prisoners who have escaped, New Orleans has become a city full of chaos and death rather than the city that once was known as being rich in culture and music.Once again, Louisiana State Penitentiary has been renamed as America's Bloodiest Prison. The future of Louisiana is uncertain but soon enough Hurricane Loma will hit causing new problems for New Orleans. "
+        }
+    },
+    {
+        "date": "3/31/2024 20:34:51",
+        "media": {
+            "url": "assets/photo-1591497108559-cd6cb3ba3d20.jpg",
+            "caption": "Tornado Causes Damage, Leaves Family in Need of Additional Resources Amid Cholera Outbreak",
+            "credit": "https://unsplash.com/photos/red-and-black-outdoor-grill-tUMyurI6ojw"
+        },
+        "location": {
+            "lat": 37.77819376634839,   
+            "lon":  -79.99781108432302,
+            "line": true,
+            "zoom": 18
+        },
+        "text": {
+            "headline": "Tornados Strike Amid Cholera Outbreak",
+            "text": "During the reservoir’s cholera contamination, tornados have run through the valley. The community shelter is running low on supplies, so there is a call for help. The head of the shelter, Maria Nicely, wants to share her gratitude for all of the support and kindness the community has shown so far. She said, “I am amazed at how close the community has remained throughout all of this strife. I am always reminded that we are all neighbors and we are all trying to survive.” The cholera outbreak started about two months ago and has spread while the community has tried to contain and purify any remaining contaminated food and water. The tornados that have sprung up this week have added to the number of people left homeless, sick, and in need of resources. Virginia has lost all semblance of state maintained infrastructure, so it is up to individual communities to stay together and take care of maintenance and necessities. Maria Nicely’s statements are a reminder of how fortunate our community is to be so small and out of the way. Being tucked in the mountains and already very close knit has allowed us to survive thus far. Even with these outbreaks and natural disasters, the community will persevere."
+        }
     }
 	  ],
 	  "map_type": "stamen:watercolor",
