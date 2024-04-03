@@ -21,401 +21,887 @@
 		  }
 		},
 		{
-        "date": "3/28/2024 9:15:27",
-        "media": {
-            "url": "assets/photo-1644339664035-2266f02f52cc.jpg",
-            "caption": "Waterfalls in Falls Park: beautiful, but ridden with disease. ",
-            "credit": "Free to use under the Unsplash License"
+            "date": "3/28/2024 9:15:27",
+            "media": {
+                "url": "assets/photo-1644339664035-2266f02f52cc.jpg",
+                "caption": "Waterfalls in Falls Park: beautiful, but ridden with disease. ",
+                "credit": "Free to use under the Unsplash License"
+            },
+            "location": {
+                "lat": 34.844527,
+                "lon": -82.401087,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "GIARDIA PLAGUES DOWNTOWN GREENVILLE, SC",
+                "text": "Downtown Greenville was once a beautiful, buzzing, vibrant town with a beautiful park at its center. The park features a dazzling waterfall, with a pedestrian bridge crossing the Reedy River just downstream. But, recently the once beloved Reedy River has been a source of sickness and death. The water is infected with a parasite, Giardia intestinalis, or Giardia, which causes diarrhea and vomiting, which leads to dehydration and in some cases, death. Because of worsening water quality and lack of access to purification methods. there have been at least 200 cases of Giardia in the Downtown Greenville area alone. the infection has primarily affected children, as they unknowingly drink from the waterfalls and contract the parasite. Prices of antibiotics are skyrocketing as the death toll climbs higher each day. "
+            }
         },
-        "location": {
-            "lat": 34.844527,
-            "lon": -82.401087,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "3/29/2024 19:30:41",
+            "media": {
+                "url": "assets/anna-popovic-zZkMki0yH6I-unsplash.jpg",
+                "caption": "Picture captured of the fire that notified those nearby of the situation in Lucama.",
+                "credit": "Free to use under the Unsplash License - Anna Popovi\u0107"
+            },
+            "location": {
+                "lat": 35.64530703888609,
+                "lon": -78.01038345038774,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Metal art pieces are all that is left from small town destroyed by fire ",
+                "text": "Another small rural town in eastern North Carolina has been destroyed by a series of fires reported to have started shortly after sundown on Tuesday. Deaths have been reported but no exact number has been confirmed. <br><br>Lucama, a small town just fifty miles east of Raleigh, North Carolina, was believed to have been targeted by individuals under the influence of the drug known as Pyro. The drug is known for heightening users' pleasure when watching fires burn by increasing their desire to start fires. <br><br>The fires consumed most of the town, destroying the few homes and businesses that were still standing. No record of the number of inhabitants in Lucama prior to the fires exists, making it unclear how many possible survivors there could be given the suspected number of deaths. <br><br>Surprisingly, out of everything that was consumed by the fire, several large metal art structures remained untouched. These art pieces, as referred to as by one police officer on the scene, are colorful structures made from scrap metal and machine parts, with all of them functioning similarly to a pinwheel toy.  <br><br>The same police officer stated that the reflective parts of some of the metal art pieces most likely added to the sensation these individuals were feeling as they were setting the fires.  <br><br>\u201cThe light reflecting onto these metal art structures that are standing up to fifty feet tall must\u2019ve captivated them in some way,\u201d The officer said. He added that this is what most likely put them off from setting the art pieces on fire. There is concern, however, that the culprits will come back, seeking the added sensation from the art pieces. Efforts are in talk to dismantle the metal structures. "
+            }
         },
-        "text": {
-            "headline": "GIARDIA PLAGUES DOWNTOWN GREENVILLE, SC",
-            "text": "Downtown Greenville was once a beautiful, buzzing, vibrant town with a beautiful park at its center. The park features a dazzling waterfall, with a pedestrian bridge crossing the Reedy River just downstream. But, recently the once beloved Reedy River has been a source of sickness and death. The water is infected with a parasite, Giardia intestinalis, or Giardia, which causes diarrhea and vomiting, which leads to dehydration and in some cases, death. Because of worsening water quality and lack of access to purification methods. there have been at least 200 cases of Giardia in the Downtown Greenville area alone. the infection has primarily affected children, as they unknowingly drink from the waterfalls and contract the parasite. Prices of antibiotics are skyrocketing as the death toll climbs higher each day. "
-        }
-    },
-    {
-        "date": "3/29/2024 19:30:41",
-        "media": {
-            "url": "assets/anna-popovic-zZkMki0yH6I-unsplash.jpg",
-            "caption": "Picture captured of the fire that notified those nearby of the situation in Lucama.",
-            "credit": "Free to use under the Unsplash License - Anna Popovi\u0107"
+        {
+            "date": "4/1/2024 18:35:31",
+            "media": {
+                "url": "assets/photo-1695733594264-5ede1a8177bc.jpg",
+                "caption": "Nuclear Fallout Rolling Over Mecklenburg County",
+                "credit": "Swipe9"
+            },
+            "location": {
+                "lat": 35.499229634644536,
+                "lon": -80.84922840849703,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Death Count Rising from Duke Power Plant Explosion",
+                "text": "On June 19th, 2025, a group of armed and unidentified individuals managed to break into the Duke McGuire Nuclear Station and destroyed several parts of the facility, resulting in a plant-wide power loss that led to a critical loss of power in the reactor cooling system. The resulting short-range explosion left all within the facility dead, and the fallout released spread in an estimated elliptical radius, extending up to twelve miles northwards and eight miles towards the south. Officials are advising against leaving shelter for another few days. Presently, three days after the incident, the highest estimated death counts are in Davidson and just west of Cornelius. Researchers speculate this to be because of the good weather increasing a characteristically high quantity of pedestrian traffic, combined with many Charlotte-Mecklenburg schools being out for summer. While currently unclear, at least five hundred deaths have been reported and this number is expected to rise dramatically as more individuals experience acute radiation poisoning. The delayed warnings and sirens are currently under investigation and are presently attributed to equipment malfunction. Officials are increasing the security at the Catawba Duke Nuclear Plant in fear of copycat attacks, while the motive of the original group is unclear. The bodies have yet to be found and recovered, but footage suggests that they used a combination of homebrew incendiaries and explosives. "
+            }
         },
-        "location": {
-            "lat": 35.64530703888609,
-            "lon": -78.01038345038774,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 23:09:21",
+            "media": {
+                "url": "assets/chris-karidis-3GWLv30smng-unsplash.jpg",
+                "caption": "Chambers Burnt Again",
+                "credit": "Chris Karidis (photographer)"
+            },
+            "location": {
+                "lat": 35.481056813801516,
+                "lon": -80.85510202679042,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Davidson College Fallen",
+                "text": "The burning down of Davidson College's central building, Chambers, for the second time in history, marks the college's demise at the hands of arsonists. Being a wealthy white school in the South already made it a lucrative target, and the insufficient police force made their resistance even more futile. Many faculties and students were killed. Few who possessed access to a functioning vehicle evacuated into the city of Charlotte, seeking sanctuary from the banks. The friendly smile and passionate greetings that the Southerners are famous for are no longer identifiable. The fire burnt everything. Those who remain trembled with fear."
+            }
         },
-        "text": {
-            "headline": "Metal art pieces are all that is left from small town destroyed by fire ",
-            "text": "Another small rural town in eastern North Carolina has been destroyed by a series of fires reported to have started shortly after sundown on Tuesday. Deaths have been reported but no exact number has been confirmed. <br><br>Lucama, a small town just fifty miles east of Raleigh, North Carolina, was believed to have been targeted by individuals under the influence of the drug known as Pyro. The drug is known for heightening users' pleasure when watching fires burn by increasing their desire to start fires. <br><br>The fires consumed most of the town, destroying the few homes and businesses that were still standing. No record of the number of inhabitants in Lucama prior to the fires exists, making it unclear how many possible survivors there could be given the suspected number of deaths. <br><br>Surprisingly, out of everything that was consumed by the fire, several large metal art structures remained untouched. These art pieces, as referred to as by one police officer on the scene, are colorful structures made from scrap metal and machine parts, with all of them functioning similarly to a pinwheel toy.  <br><br>The same police officer stated that the reflective parts of some of the metal art pieces most likely added to the sensation these individuals were feeling as they were setting the fires.  <br><br>\u201cThe light reflecting onto these metal art structures that are standing up to fifty feet tall must\u2019ve captivated them in some way,\u201d The officer said. He added that this is what most likely put them off from setting the art pieces on fire. There is concern, however, that the culprits will come back, seeking the added sensation from the art pieces. Efforts are in talk to dismantle the metal structures. "
-        }
-    },
-    {
-        "date": "3/29/2024 21:58:49",
-        "media": {
-            "url": "assets/photo-1495433923968-85c6751d2df6.jpeg",
-            "caption": "Staff have already begun the closing process at the Smith Federal Medical Center in Las Vegas.",
-            "credit": "Go to Kenny Eliason's profile Kenny Eliason neonbrand"
+        {
+            "date": "4/1/2024 9:46:47",
+            "media": {
+                "url": "assets/photo-1615092296061-e2ccfeb2f3d6.jpg",
+                "caption": "recent image capturing a fire in west asheville near the pisgah national forest.",
+                "credit": "Matt palmer , Bushfires below Stacks Bluff, Tasmania, Australia"
+            },
+            "location": {
+                "lat": 35.64100382583035,
+                "lon": -82.44319922076036,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Mountains of ashes ",
+                "text": "If asked years ago a defining quality of Asheville many would say the mountains and trees. The world had deemed Asheville an Environmentally safe-haven or a place to escape some of the immediate effects of climate change. However, this Asheville is now only a memory.<br><br>Last week a group of pyro-addict scum lit fire to miles and miles of the remaining trees and foliage we had. They went through the woods screaming and lighting fire after fire. Those of us who remain watched as the final trees slowly fall and become part of the endless ashes that surround us.  <br><br>Today we went outside of the walls surrounding the hospital we\u2019ve been calling home for the past 2 years. The goal is to go beyond the miles our eyes can see and gather information on the nature and land we still have left. The news brought back was devastating. <br><br>The reporters believe that 90 percent of the land has been burned down. One of the reporters saying, \u201cIt sucks to see the mountains of trees we used to hike through turn into mountains of ashes and death\u201d the other adding on saying \u201c I guess the name Asheville is quite fitting for the time being\u201d.<br><br>These recent fires have been the worst we\u2019ve ever seen, and it leaves all of us wondering what do we do?<br><br>"
+            }
         },
-        "location": {
-            "lat": 36.13780938379329,
-            "lon": -78.80682347122998,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "3/29/2024 21:58:49",
+            "media": {
+                "url": "assets/photo-1495433923968-85c6751d2df6.jpeg",
+                "caption": "Staff have already begun the closing process at the Smith Federal Medical Center in Las Vegas.",
+                "credit": "Go to Kenny Eliason's profile Kenny Eliason neonbrand"
+            },
+            "location": {
+                "lat": 36.13780938379329,
+                "lon": -78.80682347122998,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Feds Defund Penitentiary Medical Center",
+                "text": "BUTNER, NC\u2014The nation celebrated the October 8th bill to bypass government shutdown as a rare display of bipartisanship and solidarity, but hidden deep within the political jargon, lurked funding cuts to essential programs. As part of an effort to curb unnecessary federal spending, the Butner Federal Medical Center (FMC), residing on the ground of the Butner Federal Correctional Institution, received its check. With limited money to continue operations, the FMC will close its doors on November 1. A spokesperson from Butner Federal Correctional Institution did not respond to comment when asked about the future awaiting patients from the FMC. Operational since 1995, the Federal Medical Center serviced notable inmates ranging from John Hinckley Jr., to Bernie Madoff, to Theodore Kaczynski. Julius Graham, professor of Law & Society at Duke University views the closure as \u201ca clear sign the federal government no longer views incarceration as restorative in any sense of the word, if it ever did. Now, President Donner has essentially doomed millions of prisoners to inhumane deaths by treatable conditions.\u201d In his radio statement, Donner praised Congress for \u201cpassing a bill that will finally divert money to the American people and not to those unfit for society.\u201d"
+            }
         },
-        "text": {
-            "headline": "Feds Defund Penitentiary Medical Center",
-            "text": "BUTNER, NC\u2014The nation celebrated the October 8th bill to bypass government shutdown as a rare display of bipartisanship and solidarity, but hidden deep within the political jargon, lurked funding cuts to essential programs. As part of an effort to curb unnecessary federal spending, the Butner Federal Medical Center (FMC), residing on the ground of the Butner Federal Correctional Institution, received its check. With limited money to continue operations, the FMC will close its doors on November 1. A spokesperson from Butner Federal Correctional Institution did not respond to comment when asked about the future awaiting patients from the FMC. Operational since 1995, the Federal Medical Center serviced notable inmates ranging from John Hinckley Jr., to Bernie Madoff, to Theodore Kaczynski. Julius Graham, professor of Law & Society at Duke University views the closure as \u201ca clear sign the federal government no longer views incarceration as restorative in any sense of the word, if it ever did. Now, President Donner has essentially doomed millions of prisoners to inhumane deaths by treatable conditions.\u201d In his radio statement, Donner praised Congress for \u201cpassing a bill that will finally divert money to the American people and not to those unfit for society.\u201d"
-        }
-    },
-    {
-        "date": "3/30/2024 15:31:27",
-        "media": {
-            "url": "assets/photo-1511514323702-88e7e52f5223.jpg",
-            "caption": "A dust-ridden potato farm. ",
-            "credit": "Photo By Mattieu Joannon "
+        {
+            "date": "3/30/2024 15:31:27",
+            "media": {
+                "url": "assets/photo-1511514323702-88e7e52f5223.jpg",
+                "caption": "A dust-ridden potato farm. ",
+                "credit": "Photo By Mattieu Joannon "
+            },
+            "location": {
+                "lat": 43.042570876913686, 
+                "lon": -113.87321718669978,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "CROPS FAIL AGAIN\u2014Potato Belt Exodus Continues",
+                "text": "At 08:43 am DST, potato harvesters in Idaho Falls, ID, report sweeping crop failure across the potato belt. After rampant wildfires perpetuated by illegal civilian practice intensified an atmospheric greenhouse effect, The region experienced a temperature drop by 3C, causing potato crops froze over and fail to sprout. This marks the 4th consecutive year that the already tattered potato industry has experienced a net loss in potato production. Many farmers are now moving northward, abandoning acres of once fertile land to the dust storms that now blight the terrain in warmer months. \u201cThere\u2019s nothing for us here,\u201d said Rick Hutchins, 64, who spent his whole life harvesting and planting in Snake River Plain. <br><br>\tThough sparsely populated before the collapse, the potato belt was nonetheless subject to an economic paradigm shift: today, farmers no longer farm for money, they farm for food. And if much, or worse all of their crops continue to fail, farmers will have no food to put on the table. For anyone. Period. <br><br>\tNEW in SCIENCE: President Donner authorizes a new government sanctioned bioengineering program. Using carbon capture technology, the partner organization \u201cClearSkye\u201d will pilot a fleet of low-earth-orbit satellites to deploy a web of heat-resistant foil to filter and extract carbon from the upper atmosphere. A successful implementation would see millions of metric tons of CO2 relieved from the atmosphere, mitigating the risk of greenhouse winter effects and ensuring the livelihood of earth\u2019s vulnerable plant life. <br><br>"
+            }
         },
-        "location": {
-            "lat": 43.04216313653528,
-            "lon": -113.87317427135451,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 20:58:24",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.07.44 PM.png",
+                "caption": "A devastating fire rolls across the Montana prairie ",
+                "credit": "robh"
+            },
+            "location": {
+                "lat": 48.1924688,
+                "lon": -112.499489,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Glacier National Park Devastated by Wildfires ",
+                "text": "Late last night, just outside of the Blackfeet Indian Reservation in Dupuyer, Montana, a group of pyro junkies with five Molotov cocktails set fire to an abandoned gas station. Fanned by strong winds and fueled by the dry vegetation prevalent in the area, the flames rapidly spread, consuming everything in their path. As the fire rages unchecked, it engulfs not only the abandoned structures but also nearby homes, wildlife habitats, and vast stretches of the pristine forest that defines the landscape of Big Sky Country. The once-clear skies, which offered breathtaking views of the stars, are now obscured by thick smoke and ash, casting a pall over the region. The destruction wrought by the ongoing fires is staggering, with over 80% of the reservation and nearly 70% of Glacier National Parkland devastated by the inferno. In addition to the destruction of their habitats and neighborhoods, countless animals and people have perished in the flames. This fire marks the sixth this calendar year, which has rocked and demolished the county\u2019s national parks. There remains no effort to control the fire. Currently, there are no estimates of when the destruction will subside. "
+            }
         },
-        "text": {
-            "headline": "CROPS FAIL AGAIN\u2014Potato Belt Exodus Continues",
-            "text": "At 08:43 am DST, potato harvesters in Idaho Falls, ID, report sweeping crop failure across the potato belt. After rampant wildfires perpetuated by illegal civilian practice intensified an atmospheric greenhouse effect, The region experienced a temperature drop by 3C, causing potato crops froze over and fail to sprout. This marks the 4th consecutive year that the already tattered potato industry has experienced a net loss in potato production. Many farmers are now moving northward, abandoning acres of once fertile land to the dust storms that now blight the terrain in warmer months. \u201cThere\u2019s nothing for us here,\u201d said Rick Hutchins, 64, who spent his whole life harvesting and planting in Snake River Plain. <br><br>\tThough sparsely populated before the collapse, the potato belt was nonetheless subject to an economic paradigm shift: today, farmers no longer farm for money, they farm for food. And if much, or worse all of their crops continue to fail, farmers will have no food to put on the table. For anyone. Period. <br><br>\tNEW in SCIENCE: President Donner authorizes a new government sanctioned bioengineering program. Using carbon capture technology, the partner organization \u201cClearSkye\u201d will pilot a fleet of low-earth-orbit satellites to deploy a web of heat-resistant foil to filter and extract carbon from the upper atmosphere. A successful implementation would see millions of metric tons of CO2 relieved from the atmosphere, mitigating the risk of greenhouse winter effects and ensuring the livelihood of earth\u2019s vulnerable plant life. <br><br>"
-        }
-    },
-    {
-        "date": "3/30/2024 15:31:27",
-        "media": {
-            "url": "assets/pexels-photo-3743542.jpeg",
-            "caption": "Armed U.S. National Guard convoy moving out of San Francisco. ",
-            "credit": "Ivan Hassib"
+        {
+            "date": "4/1/2024 23:02:41",
+            "media": {
+                "url": "assets/austin-farrington-2X4SNyzTsg4-unsplash.jpg",
+                "caption": "A daunting image, showing the closest our team was able to get to the compound (located on the opposite side of the mountain). ",
+                "credit": "Austin Farrington"
+            },
+            "location": {
+                "lat": 45.25447457778461,
+                "lon": -111.31075922783965,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Government Completely overthrown in Western Montana",
+                "text": "A movement centered out of Big Sky, Montana, has overthrown the region's state, local, and national governments. While we wait for the details of what they plan to do next, we can only speculate whether these people seek chaos or order. Whether they will protect or pillage, and whether these people will kill or be killed. The state of Montana has already said it will use any and all force necessary to ride their state of these anarchists. We can only foresee much bloodshed as this story unfolds, but maybe, if they are successful, this movement will inspire others to do the same. For better or for worse. This is, of course, coming off of the coattails of the region having some of the worst forest fires in recent memory and receiving no help. Have the people decided they are done, or do they want the debt to be paid in blood? Our sources say they are well-armed. Armored cars, fully automatic weapons, and explosives have inconspicuously been stolen through the years. We sought out a statement, but our team feared for their lives when they were faced with a winding road lined with claymore mines during their approach. As always, we will do our best to keep you updated in these horrible times. "
+            }
         },
-        "location": {
-            "lat": 37.7750410235906, 
-            "lon": -122.44515710640984,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "3/31/2024 17:59:52",
+            "media": {
+                "url": "assets/pexels-photo-3743542.jpeg",
+                "caption": "Armed U.S. National Guard convoy moving out of San Francisco. ",
+                "credit": "Ivan Hassib"
+            },
+            "location": {
+                "lat": 37.7750410235906,
+                "lon": -122.44515710640984,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "NATIONAL GUARD WITHDRAWN, \u2018CONTROLLED\u2019 CARPET BOMBING OF SAN FRANCISCO GIVES \u2018CIVILIANS\u2019 72 HOURS TO EVACUATE",
+                "text": "December 23, 2027<br><br>The bloody, 130 day long battle for San Francisco ended yesterday evening, following the evacuation of the National Guard, and announcement that in 72 hours the city would be reduced to rubble. In his statement regarding his decision to bomb San Francisco, President Donner said \u201cAfter 130 days of heavy casualties on both sides, against no one enemy or leader, it is clear that we must attack this weed at its root. I will not stand by idly as drug-fueled mobs of anti-American terrorists destroy our country. The American way is to rebuild, in that spirit, our top priority will be rebuilding San Francisco, and expanding this program nationally!\u201d Following his statement, Donner issued an Executive Order which establishes a system to rank the moral standing of populations, by city, to determine whether deploying the National Guard would restore order. Critics warn that government\u2019s decision to exercise military force on their own citizens would set a bad precedent, but Sandra Power, Professor of Human Rights at Harvard, and the President\u2019s Chief Advisor on the National Security Council, dismissed these concerns saying, \u201cWe have to save the children; it is the most humane thing to do.\u201d "
+            }
         },
-        "text": {
-            "headline": "NATIONAL GUARD WITHDRAWN, ‘CONTROLLED’ CARPET BOMBING OF SAN FRANCISCO GIVES ‘CIVILIANS’ 72 HOURS TO EVACUATE",
-            "text": "December 23, 2027<br><br>The bloody, 130 day long battle for San Francisco ended yesterday evening, following the evacuation of the National Guard, and announcement that in 72 hours the city would be reduced to rubble. In his statement regarding his decision to bomb San Francisco, President Donner said “After 130 days of heavy casualties on both sides, against no one enemy or leader, it is clear that we must attack this weed at its root. I will not stand by idly as drug-fueled mobs of anti-American terrorists destroy our country. The American way is to rebuild, in that spirit, our top priority will be rebuilding San Francisco, and expanding this program nationally!” Following his statement, Donner issued an Executive Order which establishes a system to rank the moral standing of populations, by city, to determine whether deploying the National Guard would restore order. Critics warn that government’s decision to exercise military force on their own citizens would set a bad precedent, but Sandra Power, Professor of Human Rights at Harvard, and the President’s Chief Advisor on the National Security Council, dismissed these concerns saying, “We have to save the children; it is the most humane thing to do.” "
-        }
-    },
-    {
-        "date": "3/31/2024 19:35:52",
-        "media": {
-            "url": "assets/photo-1665918978735-519c6f9d5434.jpg",
-            "caption": "the last known image of Kaho'lawe before its submersion",
-            "credit": "Published on October 16, 2022 DJI, FC3170 Free to use under the Unsplash License"
+        {
+            "date": "3/31/2024 19:35:52",
+            "media": {
+                "url": "assets/photo-1665918978735-519c6f9d5434.jpg",
+                "caption": "the last known image of Kaho'lawe before it's submersion  ",
+                "credit": "Published on October 16, 2022 DJI, FC3170 Free to use under the Unsplash License"
+            },
+            "location": {
+                "lat": 20.552769250262607,
+                "lon": -156.59229924977248,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "HAWAII\"S SMALLEST ISLAND FINALLY SINKS!",
+                "text": "After over a decade of holding on to nothing but the most raised area of the land- about 20 mi^2- the few residents of Hawaii's smallest island, Kaho'olawe have finally been forced to evacuate their beloved home. The tiny island had been sinking at an imperceptible rate for years, when the combined effects of the pacific ocean earthquakes and the heatwaves of the late twenty-tens caused it to begin sinking at an alarmingly rapid pace. The final tip of the island was reported to be fully submerged by 22:17. Because of the last inhabitants of Kaho\u2019olawe\u2019s inability to quickly call the coast guard, twelve people have unfortunately perished. It was young  Stacy Mcdonald (21) who finally alerted authorities from her fishing boat off the coast of Maui. Stacy reported to have seen at least two small lifeboats relaying survivors off of the island moments after it was submerged. The survivors now reside on Maui, Hawaii's second largest island, which is projected to sink in the early twenty-forty\u2019s. Kaho\u2019olawe\u2019s sinking marks the sixteenth island to have sunk within the past five years. Will all dry land eventually sink? How long do we have? Should we be seeking high land in preparation? Only time will tell. "
+            }
         },
-        "location": {
-            "lat": 20.552769250262607,  
-            "lon": -156.59229924977248,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/2/2024 9:33:07",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.33.02 PM.png",
+                "caption": "Wildfire burning up trees.",
+                "credit": "Marcus Kauffman"
+            },
+            "location": {
+                "lat": 21.351331,
+                "lon": -157.792328,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Hawaii's Wildfires Causing Continuous Financial Loss and Rising Crime Rate",
+                "text": "Continuous wildfires broke out in mountain forests near Honolulu, Hawaii. The fires are so violent that after nearly five months, the problem of wildfires has not been alleviated. After a long period of fire-fighting operations, local firefighting resources in Honolulu were nearly overstretched. As an island in the Pacific Ocean, Oahu, where Honolulu is located, is far away from the mainland of the United States. It is difficult for the continental United States to support the Honolulu wildfire. Affected by wildfires, the city of Honolulu, which relies on tourism as an important economic income, has been hit hard, and the income of local residents has dropped sharply. The economic stagnation has sent prices soaring in Honolulu. Residents cannot afford the high prices, and robberies and thefts occur frequently. Since public resources are mostly invested in fighting wildfires, the efficiency of public security has declined, further fueling the arrogance of criminals."
+            }
         },
-        "text": {
-            "headline": "HAWAII'S SMALLEST ISLAND FINALLY SINKS!",
-            "text": "After over a decade of holding on to nothing but the most raised area of the land- about 20 mi^2- the few residents of Hawaii's smallest island, Kaho'olawe have finally been forced to evacuate their beloved home. The tiny island had been sinking at an imperceptible rate for years, when the combined effects of the pacific ocean earthquakes and the heatwaves of the late twenty-tens caused it to begin sinking at an alarmingly rapid pace. The final tip of the island was reported to be fully submerged by 22:17. Because of the last inhabitants of Kaho’olawe’s inability to quickly call the coast guard, twelve people have unfortunately perished. It was young  Stacy Mcdonald (21) who finally alerted authorities from her fishing boat off the coast of Maui. Stacy reported to have seen at least two small lifeboats relaying survivors off of the island moments after it was submerged. The survivors now reside on Maui, Hawaii's second largest island, which is projected to sink in the early twenty-forty’s. Kaho’olawe’s sinking marks the sixteenth island to have sunk within the past five years. Will all dry land eventually sink? How long do we have? Should we be seeking high land in preparation? Only time will tell. "
-        }
-    },
-    {
-        "date": "3/31/2024 19:35:57",
-        "media": {
-            "url": "assets/pexels-photo-2557709.jpeg",
-            "caption": "A prisoner breaks the wired fence escaping the maximum security prison.",
-            "credit": "Photo by Loc Dang"
+        {
+            "date": "3/31/2024 19:35:57",
+            "media": {
+                "url": "assets/pexels-photo-2557709.jpeg",
+                "caption": "A prisoner breaks the wired fence escaping the maximum security prison.",
+                "credit": "Credit:ozgurdonmaz "
+            },
+            "location": {
+                "lat": 29.96444,
+                "lon": -90.064505,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "It\u2019s Over for New Orleans",
+                "text": "Disaster continues all over the United States. New Orleans has become one of the affected cities. If you thought Hurricane Katrina wasn\u2019t enough for this city, you\u2019ll think once again about what had just happened.  <br><br>After Hurricane Katrina in 2005, New Orleans was flooded. Thousands of people lost their homes and jobs which left the population of New Orleans to be cut in half. Those individuals who stayed faced the economic challenges of living in poverty-stricken communities which continued with Hurricane Laura in 2020. Political issues have not helped the state of the city either. <br><br>Poverty has left the city in shambles with everyone turning to crime. Homicide levels have increased to the point where Louisiana State Penitentiary has filled up with more inmates than officers. This week prisoners have revolted killing all officers while escaping the 18,000-acre prison.  <br><br>The prisoners have headed to New Orleans as the epicenter of their future endeavors. Their freedom has allowed them to steal and kill anyone who will get in their way. With over 7,000 prisoners who have escaped, New Orleans has become a city full of chaos and death rather than the city that once was known as being rich in culture and music.  <br><br>Once again, Louisiana State Penitentiary has been renamed as America's Bloodiest Prison. The future of Louisiana is uncertain but soon enough Hurricane Loma will hit causing new problems for New Orleans.  "
+            }
         },
-        "location": {
-            "lat": 29.964440,   
-            "lon": -90.064505,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "3/31/2024 20:34:51",
+            "media": {
+                "url": "assets/photo-1591497108559-cd6cb3ba3d20.jpg",
+                "caption": "Tornado Causes Damage, Leaves Family in Need of Additional Resources Amid Cholera Outbreak",
+                "credit": "https://unsplash.com/photos/red-and-black-outdoor-grill-tUMyurI6ojw"
+            },
+            "location": {
+                "lat": 37.77819376634839,
+                "lon": -79.99781108432302,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Tornados Strike Amid Cholera Outbreak",
+                "text": "During the reservoir\u2019s cholera contamination, tornados have run through the valley. The community shelter is running low on supplies, so there is a call for help. The head of the shelter, Maria Nicely, wants to share her gratitude for all of the support and kindness the community has shown so far. She said, \u201cI am amazed at how close the community has remained throughout all of this strife. I am always reminded that we are all neighbors and we are all trying to survive.\u201d The cholera outbreak started about two months ago and has spread while the community has tried to contain and purify any remaining contaminated food and water. The tornados that have sprung up this week have added to the number of people left homeless, sick, and in need of resources. Virginia has lost all semblance of state maintained infrastructure, so it is up to individual communities to stay together and take care of maintenance and necessities. Maria Nicely\u2019s statements are a reminder of how fortunate our community is to be so small and out of the way. Being tucked in the mountains and already very close knit has allowed us to survive thus far. Even with these outbreaks and natural disasters, the community will persevere.<br><br>"
+            }
         },
-        "text": {
-            "headline": "It’s Over for New Orleans",
-            "text": "Disaster continues all over the United States. New Orleans has become one of the affected cities. If you thought Hurricane Katrina wasn’t enough for this city, you’ll think once again about what had just happened. After Hurricane Katrina in 2005, New Orleans was flooded. Thousands of people lost their homes and jobs which left the population of New Orleans to be cut in half. Those individuals who stayed faced the economic challenges of living in poverty-stricken communities which continued with Hurricane Laura in 2020. Political issues have not helped the state of the city either. Poverty has left the city in shambles with everyone turning to crime. Homicide levels have increased to the point where Louisiana State Penitentiary has filled up with more inmates than officers. This week prisoners have revolted killing all officers while escaping the 18,000-acre prison. The prisoners have headed to New Orleans as the epicenter of their future endeavors. Their freedom has allowed them to steal and kill anyone who will get in their way. With over 7,000 prisoners who have escaped, New Orleans has become a city full of chaos and death rather than the city that once was known as being rich in culture and music.Once again, Louisiana State Penitentiary has been renamed as America's Bloodiest Prison. The future of Louisiana is uncertain but soon enough Hurricane Loma will hit causing new problems for New Orleans. "
-        }
-    },
-    {
-        "date": "3/31/2024 20:34:51",
-        "media": {
-            "url": "assets/photo-1591497108559-cd6cb3ba3d20.jpg",
-            "caption": "Tornado Causes Damage, Leaves Family in Need of Additional Resources Amid Cholera Outbreak",
-            "credit": "https://unsplash.com/photos/red-and-black-outdoor-grill-tUMyurI6ojw"
+        {
+            "date": "4/1/2024 13:35:23",
+            "media": {
+                "url": "assets/photo-1505623547966-8af2af3515ac.jpg",
+                "caption": "Two Black Dogs Hunting in the River",
+                "credit": "Image by Jeremy Perkins"
+            },
+            "location": {
+                "lat": 34.361664,  
+                "lon": -86.305595,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Babies and children are becoming the dogs\u2019s new feast",
+                "text": "News was reported by locals from Guntersville, Alabama, that babies and children were missing from multiple households. After further investigation, the police department discovered a pack of dogs roaming local communities, each dog with some type of arm, leg, limb held in their mouth. Following the blood paths left by the dogs, the police encountered multiple bodies of babies and children left abandoned, many still bleeding, freshly killed. It turns out that the dogs have learned to sneak through the neighborhood walls through underground tunnels, find households and resources based on places set on fire by the pyro addicts, and attack at night in the darkness when guardians are resting. The dogs are fast and ruthless, and the vulnerable babies and young children have become their new target. Babies and children have been increasingly missing\u2014or killed, by the growing population of dogs. They are becoming the dogs' new feast. Guardians, households, and the wide community must watch out for this heartbreaking challenge. Stick together, have watchers at night, escape from the pack of dogs. Experts suggest for families to move up North, away from Guntersville, Alabama, where the pack of dogs have not become a significant source of danger, yet."
+            }
         },
-        "location": {
-            "lat": 37.77819376634839,   
-            "lon":  -79.99781108432302,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 15:01:16",
+            "media": {
+                "url": "assets/photo-1617939804776-fa04b283409e.jpg",
+                "caption": "Independence Hall From Police Perimeter",
+                "credit": "Colin Lloyd"
+            },
+            "location": {
+                "lat": 39.960289728692665,
+                "lon": -75.16404551541815,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Liberty Bell Vandalized, Dumped in Delaware River",
+                "text": "At approximately 3:20 AM, March 28th, a group of rioters invaded and vandalized Independence Hall. Sources report that this group consisted of 20-35 people. Eye-witness reports state that some rioters appeared high, \u201calmost insane looking\u201d as one witness described them, while others were sober, pillaging and vandalizing the historic monument. The use of drugs in this crime is unconfirmed. <br><br>Police arrived at the scene at roughly 4:30 AM; most rioters had left by then. While a small private security force had been stationed at Independent Hall that evening, they have since gone missing. Police are conducting a city-wide search for the missing guards. <br><br>Security camera footage shows rioters breaking through the security measures designed to protect the Liberty Bell, rolling the bell out of the building and approximately 0.7 miles to the Delaware River, and then dumping the Bell in the river. The Bell has not yet been recovered. While police were stationed nearby, none noticed the historic bell being stolen. When asked about this crime, a PPD correspondent stated \u201cWe are spread thin and currently focusing on areas of the city facing more violence.\u201d <br><br>The loss of one of Philadelphia\u2019s most recognizable icons comes during a severe increase in violent crime. Police are overwhelmed; however, PPD is also facing accusations of corruption. These accusations continue to mount as multiple communal leaders who had openly discussed police corruption have recently gone missing. PPD did not comment when asked about this matter. "
+            }
         },
-        "text": {
-            "headline": "Tornados Strike Amid Cholera Outbreak",
-            "text": "During the reservoir’s cholera contamination, tornados have run through the valley. The community shelter is running low on supplies, so there is a call for help. The head of the shelter, Maria Nicely, wants to share her gratitude for all of the support and kindness the community has shown so far. She said, “I am amazed at how close the community has remained throughout all of this strife. I am always reminded that we are all neighbors and we are all trying to survive.” The cholera outbreak started about two months ago and has spread while the community has tried to contain and purify any remaining contaminated food and water. The tornados that have sprung up this week have added to the number of people left homeless, sick, and in need of resources. Virginia has lost all semblance of state maintained infrastructure, so it is up to individual communities to stay together and take care of maintenance and necessities. Maria Nicely’s statements are a reminder of how fortunate our community is to be so small and out of the way. Being tucked in the mountains and already very close knit has allowed us to survive thus far. Even with these outbreaks and natural disasters, the community will persevere."
-        }
-    },
-    {
-        "date": "4/1/2024 9:46:47",
-        "media": {
-            "url": "assets/photo-1615092296061-e2ccfeb2f3d6.jpg",
-            "caption": "Recent image capturing a fire in west asheville near the pisgah national forest.",
-            "credit": "Matt palmer , Bushfires below Stacks Bluff, Tasmania, Australia"
+        {
+            "date": "4/1/2024 15:49:22",
+            "media": {
+                "url": "assets/photo-1603446750917-ccfd69742be3.jpg",
+                "caption": "The barren land outside Bridgeport",
+                "credit": "Markus Spiske"
+            },
+            "location": {
+                "lat": 41.666655529406256,
+                "lon": -103.10028835959243,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Depleted Ogallala Aquifer",
+                "text": "The small town of Bridgeport, Nebraska, a settlement driven by economic activity coming from Route 26, is a window to the wide world of Nebraskan farms. Unfortunately for the farmers, their poor irrigation practices and general disregard for ecological sustainability have left the Ogallala Aquifer dangerously depleted. This aquifer, spanning seven states, is the main water reserve for most of the midwest and its grain farms. That it's out of water, with no way of being naturally replenished, spells disaster for the farmers, but also the rest of the United States. Grain prices have already skyrocketed, and before long the land will be so overworked, so dry, that nothing will be able to grow; a repeat of the dust bowl seems inevitable. Soon Bridgeport residents will run out of water, as the last of it is fought for by farmers and the rest of the population. I see the region's future: Barren and deserted, the wind spins tornados from a loom of cosmic wrath, and the few survivors left dig holes into the ground to avoid their self-imposed destiny. Route 26 going through Bridgeport, which seemed a blessing for their economy, will only bring hungry, desperate wanderers into the town's vicinity. Long after the last crops were pillages and the last people driven out, finally, maybe, rain will fall and soak and pound the earth down, and finally, maybe, wild grasses will grow again. "
+            }
         },
-        "location": {
-            "lat": 35.64100382583035,   
-            "lon":  -82.44319922076036,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 21:17:43",
+            "media": {
+                "url": "assets/pexels-pixabay-86722.jpg",
+                "caption": "Mosquito Spreading Disease",
+                "credit": "Via Pixabay"
+            },
+            "location": {
+                "lat": 25.7760930, 
+                "lon": -80.2366920,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Miami Is The New Haven For Insect Spread Disease ",
+                "text": "Home to more violent and inconsistent weather than ever before, Florida\u2019s environmental change has made it home to the largest populations of mosquitoes in the US. Parts of the year leave the Florida landscape scorched. This combined with the development of logging companies has left vast swaths of Florida a desolate wasteland. When the seasons change, these wastelands are home to unnumbered stagnant pools that act as spawning grounds for mosquitos. The remaining wealthy communities and surrounding slums inhabiting what is left off the coast of Miami are suffering from a constant bombardment of black swarms of mosquitoes coming in from a short distance inland. Nile fever is rampant within the mostly unvaccinated community being hit hard with many worried about a rising number of malaria cases. Those who can afford it are beginning to flee much further North while the less fortunate are beginning to migrate in droves to Alabama and Georgia. The government has taken action setting up defenses along highways to \u201cfilter\u201d those allowed to travel North. It is expected that large camps will begin to spring up along the border where living conditions are sure to cause more death and disease."
+            }
         },
-        "text": {
-            "headline": "Mountains of Ashes",
-            "text": "If asked years ago a defining quality of Asheville many would say the mountains and trees. The world had deemed Asheville an Environmentally safe-haven or a place to escape some of the immediate effects of climate change. However, this Asheville is now only a memory. Last week a group of pyro-addict scum lit fire to miles and miles of the remaining trees and foliage we had. They went through the woods screaming and lighting fire after fire. Those of us who remain watched as the final trees slowly fall and become part of the endless ashes that surround us. Today we went outside of the walls surrounding the hospital we’ve been calling home for the past 2 years. The goal is to go beyond the miles our eyes can see and gather information on the nature and land we still have left. The news brought back was devastating. The reporters believe that 90 percent of the land has been burned down. One of the reporters saying, “It sucks to see the mountains of trees we used to hike through turn into mountains of ashes and death” the other adding on saying “ I guess the name Asheville is quite fitting for the time being”. These recent fires have been the worst we’ve ever seen, and it leaves all of us wondering what do we do?"
-        }
-    },
-    {
-        "date": "4/1/2024 9:46:47",
-        "media": {
-            "url": "assets/photo-1505623547966-8af2af3515ac.jpg",
-            "caption": "Two Black Dogs Hunting in the River",
-            "credit": "Image by Jeremy Perkins"
+        {
+            "date": "4/1/2024 23:35:00",
+            "media": {
+                "url": "https://images.pexels.com/photos/9963280/pexels-photo-9963280.jpeg?auto=compress&cs=tinysrgb&w=600",
+                "caption": "Flooded street in downtown Miami",
+                "credit": "I didn't see how to copy the image credit, but the image is by Plato Terentev."
+            },
+            "location": {
+                "lat": 25.78305725371776,
+                "lon": -80.18742479449809,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Squatters in Kaseya Center Forced to Evacuate as Sea Levels Breach the Florida Mainland",
+                "text": "Kaseya Center, the longtime home of Miami's renowned basketball team, the Heat, started to flood with water last night. This now rundown building was converted into a safe haven for people and was heavily guarded by police. It was home to hundreds of Miami citizens who had been forced from their homes due to the rampant violence on the streets. The old stadium was as good a place as any for people looking for some security from the gangs and pyro addicts outside. Now these people are being forced to move yet again, as the building has begun to flood. With the flooding of South Beach starting last week, the water has quickly reached the mainland, and people are being forced inland. Sea levels are projected to keep rising and officials are advising the evacuation of everyone still left in Miami. Alongside the people living in Kaseya Center, what is left of the people in Miami are moving inland, many with just the clothes on their backs and supplies for a few days.<br><br>"
+            }
         },
-        "location": {
-            "lat": 34.361664,   
-            "lon":  -86.305595,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 22:07:47",
+            "media": {
+                "url": "https://images.pexels.com/photos/18940341/pexels-photo-18940341/free-photo-of-demolished-and-flooded-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "caption": "Apartment Complex Destroyed by Sinkhole and Flooding",
+                "credit": "ak\u0131n akda\u011f"
+            },
+            "location": {
+                "lat": 28.5384,
+                "lon": -81.3789,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Flooding Causes Massive Displacement in Florida",
+                "text": "The rise in sea levels has submerged the southern half of Florida, displacing the roughly ten million people that once lived in the region. The rising water table has destabilized Florida's limestone bedrock, and causing massive sinkholes to emerge, especially in highly urbanized areas. As a result, the governor has implemented population caps, limiting the population size to one thousand people per square mile. These conflating factors have resulted in a mass exodus north. The local militias have organized caravans, charging people a fee for safe passage out of the state. Those who cannot afford to leave face a bevy of challenges: lack of groundwater which hasn't yet been contaminated by salt and algal blooms, violence from the militias and other inhabitants, lack of protection and safe infrastructure due to the population caps, and disease from the swarms of insects that have bred from the abundance of water and extreme temperatures. The greater Orlando area has become a major center for those displaced, expanding northward as residents move to accommodate the population caps and newcomers hope to find a group to caravan with."
+            }
         },
-        "text": {
-            "headline": "Babies and children are becoming the dogs’s new feast",
-            "text": "News was reported by locals from Guntersville, Alabama, that babies and children were missing from multiple households. After further investigation, the police department discovered a pack of dogs roaming local communities, each dog with some type of arm, leg, limb held in their mouth. Following the blood paths left by the dogs, the police encountered multiple bodies of babies and children left abandoned, many still bleeding, freshly killed. It turns out that the dogs have learned to sneak through the neighborhood walls through underground tunnels, find households and resources based on places set on fire by the pyro addicts, and attack at night in the darkness when guardians are resting. The dogs are fast and ruthless, and the vulnerable babies and young children have become their new target. Babies and children have been increasingly missing—or killed, by the growing population of dogs. They are becoming the dogs' new feast. Guardians, households, and the wide community must watch out for this heartbreaking challenge. Stick together, have watchers at night, escape from the pack of dogs. Experts suggest for families to move up North, away from Guntersville, Alabama, where the pack of dogs have not become a significant source of danger, yet."
-        }
-    },
-    {
-        "date": "4/1/2024 9:46:47",
-        "media": {
-            "url": "assets/photo-1617939804776-fa04b283409e.jpg",
-            "caption": "Independence Hall From Police Perimeter",
-            "credit": "Colin Lloyd"
+        {
+            "date": "4/1/2024 16:36:59",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 9.58.23 PM.png",
+                "caption": "The fires rage, lighting the nights, with the winds coming from up north pushing the fire more up north.. ",
+                "credit": "Oleksandr P"
+            },
+            "location": {
+                "lat": 32.773403,
+                "lon": -97.39484,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Fort Worth Braces for Double Disaster: Wildfires and Hurricane Threaten",
+                "text": "Fort Worth, Texas, finds itself on high alert as it braces for a double disaster threat wildfires raging on its outskirts and a looming hurricane approaching the Gulf Coast. The unusual combination of natural disasters has left residents on edge, with fears mounting over the potential for widespread devastation. In the west, raging wildfires fueled by drought-stricken conditions and gusty winds have scorched thousands of acres of land, threatening to engulf nearby communities. Firefighters are stretched to their limits as they battle the infernos, struggling to contain the blazes amidst the relentless flames. Meanwhile, on the Gulf Coast, a powerful hurricane churns its way toward landfall, its path of destruction set to collide with the vulnerable coastline. With memories of past hurricanes still fresh, residents stock up on supplies and prepare to evacuate, bracing for the possibility of torrential rains, destructive winds, and widespread flooding. City officials work tirelessly to coordinate emergency response efforts, urging residents to heed evacuation orders and take necessary precautions to ensure their safety. Yet, the looming threat of simultaneous wildfires and hurricanes poses unprecedented challenges, stretching resources thin and testing the community's resilience. Senator Ted Cruz is back in Cancun, while Governor Greg Abbot is nowhere to be found. "
+            }
         },
-        "location": {
-            "lat": 39.960289728692665,    
-            "lon":  -75.16404551541815,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 17:19:45",
+            "media": {
+                "url": "assets/photo-1667339969257-d71b50ea3d4f.jpg",
+                "caption": "This is what is left of Spirit Lake. ",
+                "credit": "Photo by <a href=\"https://unsplash.com/@aishwaryagunde?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Aishwarya Gunde</a> on <a href=\"https://unsplash.com/photos/a-large-dam-with-trees-in-the-background-8McUIflmdjI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash\">Unsplash</a>   "
+            },
+            "location": {
+                "lat": 43.419751,
+                "lon": -95.103478,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Spirit Lake: Spirits Are Rapidly Declining",
+                "text": "While Spirit Lake used to be a lively suburban town, the town\u2019s morale and resource supply has rapidly declined. The lake used to be clean\u2014people would swim freely and the water was safe to drink. It was a perfect place to go on a bright, sunny day. Now, no matter the weather, no one wants to go near the lake. It is clogged with fallen trees, logs, and the littered trash of people wandering through the town. The old, drinkable water has become so greatly polluted it can no longer be consumed. Although if you are brave enough or desperate enough and try to drink the water, water should be boiled or water purification tablets should be used. Drink with caution. <br><br>The crime in Spirit Lake has over doubled in the past year. Many of the restaurants and stores have been looted and burned, and ash remains where they once lay. Resources are so low people have resorted to cannibalism. Yesterday, a human body was found next to a campfire. Its right leg was missing and the bone gnawed. There was a clean slit down the left leg and all that left was skin and bone. If you are passing through Spirit Lake, be careful."
+            }
         },
-        "text": {
-            "headline": "Liberty Bell Vandalized, Dumped in Delaware River",
-            "text": "At approximately 3:20 AM, March 28th, a group of rioters invaded and vandalized Independence Hall. Sources report that this group consisted of 20-35 people. Eye-witness reports state that some rioters appeared high, “almost insane looking” as one witness described them, while others were sober, pillaging and vandalizing the historic monument. The use of drugs in this crime is unconfirmed.<br><br>Police arrived at the scene at roughly 4:30 AM; most rioters had left by then. While a small private security force had been stationed at Independent Hall that evening, they have since gone missing. Police are conducting a city-wide search for the missing guards.<br><br>Security camera footage shows rioters breaking through the security measures designed to protect the Liberty Bell, rolling the bell out of the building and approximately 0.7 miles to the Delaware River, and then dumping the Bell in the river. The Bell has not yet been recovered. While police were stationed nearby, none noticed the historic bell being stolen. When asked about this crime, a PPD correspondent stated “We are spread thin and currently focusing on areas of the city facing more violence.”<br><br>The loss of one of Philadelphia’s most recognizable icons comes during a severe increase in violent crime. Police are overwhelmed; however, PPD is also facing accusations of corruption. These accusations continue to mount as multiple communal leaders who had openly discussed police corruption have recently gone missing. PPD did not comment when asked about this matter. "
-        }
-    },
-    {
-        "date": "4/1/2024 9:46:47",
-        "media": {
-            "url": "assets/photo-1603446750917-ccfd69742be3.jpg",
-            "caption": "The barren land outside Bridgeport",
-            "credit": "Markus Spiske"
+        {
+            "date": "4/1/2024 17:47:15",
+            "media": {
+                "url": "assets/photo-1572204097183-e1ab140342ed.jpg",
+                "caption": "A burning clothing store next to the apartment complex which caught fire early Thursday morning",
+                "credit": "Published on October 27, 2019 NIKON CORPORATION, NIKON D3300"
+            },
+            "location": {
+                "lat": 39.77571,
+                "lon": -86.15336,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Another Indiana town near Indianapolis Ravaged by Pyromaniacs",
+                "text": "A town nearby downtown Indianapolis, Indiana called Meridian Heights was attacked and severely burned on Wednesday night by people intoxicated by the rapidly-spreading drug pyromania. Police reported that a group of what was believed to be three thirteen to fifteen year-olds started the fire in an old building that was formerly a convenience store. The fire quickly spread through the building and across the street into a nearby apartment complex. Reports also say that the fire began around 11:30 pm and began spreading across the street around midnight. Eleven members of the apartment complex were found dead early that morning and hundreds of others living in the apartments were injured with severe burns. The three intoxicated teenagers, armed with guns, were later reported robbing and then burning several closed restaurants in the area. This is the third major reported pyromaniac burning in the state of Indiana in the past three weeks. The drug has since been banned throughout the state, but these laws have not protected against recent attacks in and outside the state. Other midwest cities and states have reported similar attacks over the past month. The ages of the attackers appears to be within the range of twelve to seventeen years."
+            }
         },
-        "location": {
-            "lat": 41.666655529406256,     
-            "lon":  -103.10028835959243,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 18:02:34",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 9.58.23 PM.png",
+                "caption": "The City Skyline of Boston",
+                "credit": "jhorrocks"
+            },
+            "location": {
+                "lat": 42.37310336110956,
+                "lon": -71.05887587656721,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Submerged Districts Turn to Eachother for Food",
+                "text": "        Boston, Massachusetts is a shell of the city it once was. A flu-like disease wiped out a large portion of the residents, starting with a cough, and leaving most victims dead within the week. Those who lived long enough to potentially receive treatment now must pay a handsome sum to travel by boat, as the ocean has now completely overtook most of the densely populated residential areas\u2014Brighton, Allston, and Fenway. Detrimental monsoons have eroded many buildings' infrastructure, and most who reside in the submerged districts likely have only a few months to live before it all crumbles down.<br><br>        Recently, though, due to a lack of transportation, residents have turned to each other for sustenance, wealth, and entertainment. Entire buildings have been dwindled to two or three cannibalistic groups. In some buildings, cannibal groups gather seven or eight people and force them to complete meaningless tasks for their survival, eliminating and eating them one at a time. There are no winners. Eventually once all have been labored to insanity and subsequently eaten, a new batch is brought in.<br><br>        Luckily, those who live in the submerged districts are protected from the Paints, who now wander aimlessly on the barren outskirts searching for anything to burn. In fact, the Paints in the Boston area have taken a distinct pleasure in burning hundreds of humans at a time. They chain up survivors, families, law enforcement\u2014-anything they can get their hands on\u2014and organize a mass burn of human flesh. <br><br>        Nobody wants to rescue anyone in the submerged district, or even enter the city at all. With the new outbreak of cannibalism, the few \u201cgood\u201d souls left in Boston must accept that they are predestined for death.<br><br>"
+            }
         },
-        "text": {
-            "headline": "Depleted Ogallala Aquifer",
-            "text": "The small town of Bridgeport, Nebraska, a settlement driven by economic activity coming from Route 26, is a window to the wide world of Nebraskan farms. Unfortunately for the farmers, their poor irrigation practices and general disregard for ecological sustainability have left the Ogallala Aquifer dangerously depleted. This aquifer, spanning seven states, is the main water reserve for most of the midwest and its grain farms. That it's out of water, with no way of being naturally replenished, spells disaster for the farmers, but also the rest of the United States. Grain prices have already skyrocketed, and before long the land will be so overworked, so dry, that nothing will be able to grow; a repeat of the dust bowl seems inevitable. Soon Bridgeport residents will run out of water, as the last of it is fought for by farmers and the rest of the population. I see the region's future: Barren and deserted, the wind spins tornados from a loom of cosmic wrath, and the few survivors left dig holes into the ground to avoid their self-imposed destiny. Route 26 going through Bridgeport, which seemed a blessing for their economy, will only bring hungry, desperate wanderers into the town's vicinity. Long after the last crops were pillages and the last people driven out, finally, maybe, rain will fall and soak and pound the earth down, and finally, maybe, wild grasses will grow again."
-        }
-    },
-    {
-        "date": "4/1/2024 9:46:47",
-        "media": {
-            "url": "assets/photo-1617939804776-fa04b283409e.jpg",
-            "caption": "Mosquito in stagnant water",
-            "credit": "Colin Lloyd"
+        {
+            "date": "4/1/2024 18:20:05",
+            "media": {
+                "url": "assets/atlanta.png",
+                "caption": "An aerial view of Atlanta and what appears to be a series of buildings set ablaze.",
+                "credit": "Unsplash + in collaboration with Nat. Licensed under the Unsplash + License. "
+            },
+            "location": {
+                "lat": 33.74885973888191,
+                "lon": -84.3898906994748,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Atlanta: Left Powerless",
+                "text": "The city of Atlanta, one of the few cities with access to power, has finally lost it after a riot that destroyed several crucial powerlines. With no energy left to enable alarm systems, homeowners and business owners are left defenseless in an environment where crime, theft, and murder have become an everyday occurrence for decades. As a result, chaos has enveloped the city as rioters take advantage of the lack of security and steal anything in sight. The already minimal police force can simply not keep up or have become rioters themselves as the gangs that bribe most of them have begun to take over. As people attempt to leave in the few vehicles left, rioters form blockades and kill anyone too unaware to stay inside and continue to drive through the mass of bodies. Gunfights can be heard everywhere. In an attempt to control the riots, the few remaining police forces threw gas into underground Atlanta, sealing off all exits and leaving the people below to suffocate amidst the chaos. Atlanta is no longer safe if it ever was. With the locals doing everything in their power to escape, it would be in everyone else\u2019s best interest to steer far from the refugees and destruction of Atlanta. "
+            }
         },
-        "location": {
-            "lat": 25.7760930,     
-            "lon":  -80.2366920,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 18:28:31",
+            "media": {
+                "url": "assets/maarten-van-den-heuvel-zqR4Fpi6Lyo-unsplash.jpg",
+                "caption": "Lake Michigan's visibly contaminated water",
+                "credit": "Maarten van den Heuvel; Guayaquil, Ecuador; Published on February 7, 2016; taken on a SONY, ILCE-5100"
+            },
+            "location": {
+                "lat": 41.61301013951454, 
+                "lon": -87.31970888204543,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Lake Michigan Water Deemed Undrinkable as Thousands Die from Unidentified Disease",
+                "text": "While these times of fire, famine, and poverty have left no American citizen unaffected, it has been common thought that those in the Midwest have been the most fortunate. Although they too have had to leave their homes, burned down by pyro-addicts or driven out by inflation\u2019s sky-high prices, those living in the Wisconsin-Illinois-Indiana-Michigan area have had a lifeline: Lake Michigan. As they traveled up North, often trying to reach Canada, wanderers stayed close to the lake\u2019s shores. In addition to providing those with a clear route, Lake Michigan\u2019s water gave a chance for survival. <br><br>Of course, this body of water has been contaminated ever since significant numbers of citizens began their northern treks. With no standardized place to use the restroom, the body of water was a natural choice. But now, the issue has turned extreme. A new disease, which is able to withstand all decontamination efforts\u2014purification tablets, boiling, etc\u2014has taken the lives of thousands. The first case was seen in Sheboygan, Wisconsin, a city one hour by car from Milwaukee. At first, many thought the illness to be cholera, but new symptoms have proven the disease to be a new mutation. Those who contract the sickness start by vomiting, but soon begin to bleed from their eyes and die a slow, painful death. No water is safe. Be cautious. "
+            }
         },
-        "text": {
-            "headline": "Miami Is The New Haven For Insect Spread Disease ",
-            "text": "Home to more violent and inconsistent weather than ever before, Florida’s environmental change has made it home to the largest populations of mosquitoes in the US. Parts of the year leave the Florida landscape scorched. This combined with the development of logging companies has left vast swaths of Florida a desolate wasteland. When the seasons change, these wastelands are home to unnumbered stagnant pools that act as spawning grounds for mosquitos. The remaining wealthy communities and surrounding slums inhabiting what is left off the coast of Miami are suffering from a constant bombardment of black swarms of mosquitoes coming in from a short distance inland. Nile fever is rampant within the mostly unvaccinated community being hit hard with many worried about a rising number of malaria cases. Those who can afford it are beginning to flee much further North while the less fortunate are beginning to migrate in droves to Alabama and Georgia. The government has taken action setting up defenses along highways to “filter” those allowed to travel North. It is expected that large camps will begin to spring up along the border where living conditions are sure to cause more death and disease. "
-        }
-    },
-    {
-        "date": "4/1/2024 9:46:47",
-        "media": {
-            "url": "assets/photo-1617939804776-fa04b283409e.jpg",
-            "caption": "Car swallowed by sinkhole in Oak Ridge, Florida",
-            "credit": "RapidEye"
+        {
+            "date": "4/1/2024 20:24:16",
+            "media": {
+                "url": "assets/pexels-photo-1498250.jpeg",
+                "caption": "Could amusement parks make a come back in the US? Click here to learn more: https://www.latimes.com/travel/story/2024-03-20/theme-park-trends-themed-entertainment-association",
+                "credit": "https://www.pexels.com/@enginakyurt/"
+            },
+            "location": {
+                "lat": 40.384977488934524,
+                "lon": -79.86107355460476,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "THRILL SEEKING...THE OLD FASHIONED WAY",
+                "text": "    Local neighborhoods encompassing Braddock, Pittsburgh have begun to develop a new rehabilitation strategy for recovering Pyro addicts: letting them take their hit and enjoy the effects...within the safety of decommissioned theme park attractions. Dr. Lory Dale, once part of the Food and Drug Administration, explained her reasoning to us in an interview last Thursday within the previously defunct Kennywood Theme Park. \"Pyro addicts have wreaked havoc on this country, and I'm not trying to defend any of what they've done. But what people don't realize is a lot of them are kids looking for a way to make something for themselves with what little power they feel they have, even if that means burning everything to the ground. Whether they want community, power, or some combination of both, they take the pill. We're here to provide a way out.\" Dale took us to Musical Express, a spinning carousel of flashing lights and exciting music. From where we stood, we could see some addicts on board, screaming and singing along, but no fires. \"It's too expensive to run the full park with the security and other expenses\" Dale continued, \"but as long as we get the flashier rides going and keep a couple of 'break' rooms for those craving bigger hits, it works. But I want to make this clear: it is a lot less expensive to prevent these things than to try and ease them later. There is still a lot of work to be done.\" "
+            }
         },
-        "location": {
-            "lat": 28.5384,      
-            "lon":  -81.3789,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 20:54:59",
+            "media": {
+                "url": "assets/mars.png",
+                "caption": "A New Dust Bowl: Hell on Earth",
+                "credit": "Download this HD photo of dust storm, mars, habitat, and view by Alexander Mils (@alexandermils) licensed under Unsplash + License "
+            },
+            "location": {
+                "lat": 34.856762591801115,
+                "lon": -111.80323213807424,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "The New World's Dust Bowl",
+                "text": "Sedona, Arizona has been hit harder than most with the catastrophic lack of rain this New World has brought with it. Reminiscent of long ago, far-worse times, the land and soil have dried layers deep and nothing is holding it compact. As such, any gust of wind results in blinding, unbreathable conditions. When you couple that with the increased power and frequency of windstorms and tornadoes, it is a wonder Sedona hasn\u2019t been completely buried yet. <br><br>\tMost sensible residents have already vacated their homes unprepared for dealing with the constant barrage of uprooted ground matter. However, those who can\u2019t leave are forced to deal with the continually worsening dust conditions.<br><br>\tRecently, the strongest windstorm Sedona residents had even seen swept through and over the already dying city. It not only swept up the already displaced dust but also uprooted another 3 inches of ground soil. This storm destroyed houses, and the ones it didn\u2019t destroy it completely covered in dirt and dust. <br><br>Many homeowners were not able to leave, or more appropriately escape, their homes. Residents relied on luckier community members and the failing rescue squads to save them. Those who could not afford to be rescued, did not have enough goodwill with the community, or simply lived isolated, died in their homes of asphyxiation or starvation. <br><br>This is just another of the repeated dust storms ravaging this community, but to date, it has been the most deadly with the accurate count still unknown and growing.<br><br>"
+            }
         },
-        "text": {
-            "headline": "Flooding Causes Massive Displacement in Florida",
-            "text": "The rise in sea levels has submerged the southern half of Florida, displacing the roughly ten million people that once lived in the region. The rising water table has destabilized Florida's limestone bedrock, and causing massive sinkholes to emerge, especially in highly urbanized areas. As a result, the governor has implemented population caps, limiting the population size to one thousand people per square mile. These conflating factors have resulted in a mass exodus north. The local militias have organized caravans, charging people a fee for safe passage out of the state. Those who cannot afford to leave face a bevy of challenges: lack of groundwater which hasn't yet been contaminated by salt and algal blooms, violence from the militias and other inhabitants, lack of protection and safe infrastructure due to the population caps, and disease from the swarms of insects that have bred from the abundance of water and extreme temperatures. The greater Orlando area has become a major center for those displaced, expanding northward as residents move to accommodate the population caps and newcomers hope to find a group to caravan with."
-        }
-    },
-    {
-        "date": "4/1/2024 9:46:47",
-        "media": {
-            "url": "assets/photo-1667339969257-d71b50ea3d4f.jpg",
-            "caption": "This is what is left of Spirit Lake.",
-            "credit": "Photo by Aishwarya Gunde"
+        {
+            "date": "4/1/2024 20:56:30",
+            "media": {
+                "url": "assets/stpete.png",
+                "caption": "Man traveling to work in the submerged city.",
+                "credit": "https://www.pexels.com/@david-suarez-441816989/"
+            },
+            "location": {
+                "lat": 27.779584225816823, 
+                "lon": -82.63113350696153,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Water levels in Florida cause housing to be submerged!!!",
+                "text": "Recently, in St. Petersburg, Florida, waters levels have been rising uncontrollably. Water levels in Florida have always been a problem due to global warming, but now it has taken a turn for the worse. Residents of Bradenton had built walls to protect the community from flooding, but now the water levels have risen above the walls. The city completely flooded, with houses and buildings being partially submerged in water. Sea life has also ventured into the town, while providing an easy food source, has also made the town dangerous to stay in due to dangerous marine animals inhabiting the city. People have fled St. Petersburg and causing people to leave the town and venture to the very dangerous and pyro-overridenn Tampa. "
+            }
         },
-        "location": {
-            "lat": 43.419751,      
-            "lon":  -95.103478,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 21:18:13",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.11.26 PM.png",
+                "caption": "Hurricane taken by Satellite",
+                "credit": "Nasa"
+            },
+            "location": {
+                "lat": 29.945470346889124,
+                "lon": -90.08719925978265,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Hurricane Katrina Devastates New Orleans Area",
+                "text": "Hurricane Katrina ripped through New Orleans communities last week, devastating the city and surrounding area. Over 1800 deaths have been reported, as well as countless other casualties. While the active hurricane was problematic, much more fatal is the ongoing flooding caused by the storm, which has resulted in many missing persons. Rescue efforts began promptly and are underway. The Louisiana Superdome and Convention Center have become places of refuge for residents of New Orleans but are rapidly deteriorating in condition while sewage systems break down and supplies dwindle. <br><br>          The storm originally surfaced in the Caribbean, over the Bahamas, and moved across Florida before it arrived at New Orleans. While it was believed that the city dodged a bullet, the majority of the city, below sea level, was ravaged by flooding as retaining walls succumbed to water pressure. At the moment, over 80% of the city is underwater. At this point, most local rescue teams and organizations were immobilized and unable to respond to the situation. Yesterday the national guard was deployed to the area in the hopes of providing additional food and water to refugees within the city.<br><br>"
+            }
         },
-        "text": {
-            "headline": "Spirit Lake: Spirits Are Rapidly Declining",
-            "text": "While Spirit Lake used to be a lively suburban town, the town’s morale and resource supply has rapidly declined. The lake used to be clean—people would swim freely and the water was safe to drink. It was a perfect place to go on a bright, sunny day. Now, no matter the weather, no one wants to go near the lake. It is clogged with fallen trees, logs, and the littered trash of people wandering through the town. The old, drinkable water has become so greatly polluted it can no longer be consumed. Although if you are brave enough or desperate enough and try to drink the water, water should be boiled or water purification tablets should be used. Drink with caution.<br><br>The crime in Spirit Lake has over doubled in the past year. Many of the restaurants and stores have been looted and burned, and ash remains where they once lay. Resources are so low people have resorted to cannibalism. Yesterday, a human body was found next to a campfire. Its right leg was missing and the bone gnawed. There was a clean slit down the left leg and all that left was skin and bone. If you are passing through Spirit Lake, be careful."
-        }
-    },
-    {
-        "date": "4/1/2024 18:02:34",
-        "media": {
-            "url": "",
-            "caption": "The City Skyline of Boston",
-            "credit": ""
+        {
+            "date": "4/1/2024 21:20:42",
+            "media": {
+                "url": "https://images.pexels.com/photos/4905091/pexels-photo-4905091.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "caption": "What the World has really come to ",
+                "credit": "ArtHouse Studio"
+            },
+            "location": {
+                "lat": 32.02337870947961, 
+                "lon": -80.84494114994182,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "The Rising of Sea Levels in Tybee Island, Georgia ",
+                "text": "Tybee Island, Georgia, is a beach town like many others that is suffering from the impacts of global warming and rising sea levels. We interviewed many individuals who stayed at the Sand Castle Inn, who experienced immense flooding on the first floor of their hotel rooms. Some were completely surprised and had no idea what to do and others had already planned to move north, to the mountains where they would be less at risk of the impacts of the sea levels rising. Climate change has made some places warmer, others colder, sea levels to rise, more frequent hurricanes and many other things. One family had purchased land and a home in the middle of Vermont, away from the ocean and any bodies of water. They explained to me that they knew that things were going to get bad because of the constant change in the environment and constant destruction. They wanted to get ahead of the time so that they wouldn't be trapped without anywhere to go anything. Others weren't so lucky, trapped in Tybee without anywhere to go, frustrated with the faults of the Earth that we humans had created. "
+            }
         },
-        "location": {
-            "lat": 42.37310336110956,       
-            "lon":  -71.05887587656721,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 21:46:56",
+            "media": {
+                "url": "assets/caseen-kyle-registos-dAoDS8XeEe0-unsplash.jpg",
+                "caption": "Fire Tornado Rips Through Topeka",
+                "credit": "Caseen Kyle Registos"
+            },
+            "location": {
+                "lat": 39.04719187564134,
+                "lon": -95.65515929886463,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Fire Tornado Rips Through Topeka! Thousands Dead or Missing! ",
+                "text": "On Tuesday morning, a devastating tornado ripped through Topeka Kansas. This F6 tornado was the third tornado to ever reach category F6 category. To make matters worse, the tornado reached critical temperature causing severe burns and setting Topeka ablaze. The tornado featured winds of over 350 MPH, wrecking everything in its path. It is unknown how many people were killed in this devastating natural disaster, but the initial estimates are that over 90% of the people in the region were killed. This is not the first disaster to strike the heart of the country. Early this year, a tornado of similar size demolished Kansas City and left most of its population for dead. While the death count will be confirmed later this week, it is a grim and tragic day for the people of Topeka. A local correspondent spoke with a survivor of the tragic event. \"It was terrifying. I was inside my house when I heard screaming and strong winds. I was lucky to make it out alive and escape the tornado. The rest of my family were not so lucky. Where will I go now?\" Stay tuned for more updates as the death count is sure to rise. "
+            }
         },
-        "text": {
-            "headline": "Submerged Districts Turn to Each other for Food",
-            "text": "Boston, Massachusetts is a shell of the city it once was. A flu-like disease wiped out a large portion of the residents, starting with a cough, and leaving most victims dead within the week. Those who lived long enough to potentially receive treatment now must pay a handsome sum to travel by boat, as the ocean has now completely overtook most of the densely populated residential areas—Brighton, Allston, and Fenway. Detrimental monsoons have eroded many buildings' infrastructure, and most who reside in the submerged districts likely have only a few months to live before it all crumbles down.<br><br>Recently, though, due to a lack of transportation, residents have turned to each other for sustenance, wealth, and entertainment. Entire buildings have been dwindled to two or three cannibalistic groups. In some buildings, cannibal groups gather seven or eight people and force them to complete meaningless tasks for their survival, eliminating and eating them one at a time. There are no winners. Eventually once all have been labored to insanity and subsequently eaten, a new batch is brought in. <br><br>Luckily, those who live in the submerged districts are protected from the Paints, who now wander aimlessly on the barren outskirts searching for anything to burn. In fact, the Paints in the Boston area have taken a distinct pleasure in burning hundreds of humans at a time. They chain up survivors, families, law enforcement—-anything they can get their hands on—and organize a mass burn of human flesh. <br><Br>Nobody wants to rescue anyone in the submerged district, or even enter the city at all. With the new outbreak of cannibalism, the few “good” souls left in Boston must accept that they are predestined for death."
-        }
-    },
-    {
-        "date": "4/1/2024 18:20:05",
-        "media": {
-            "url": "assets/atlanta.png",
-            "caption": "An aerial view of Atlanta and what appears to be a series of buildings set ablaze.",
-            "credit": "Unsplash + in collaboration with Nat. Licensed under the Unsplash + License. "
+        {
+            "date": "4/1/2024 21:55:05",
+            "media": {
+                "url": "https://images.pexels.com/photos/6907100/pexels-photo-6907100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "caption": "Nogales Camps lined up; each tent is usually occupied by 6-10 people. Nogales locals are nocturnal as Arizona temperatures can rise up to 120 degrees F on a daily basis.",
+                "credit": " Ahmed Akacha"
+            },
+            "location": {
+                "lat": 31.335872002266587,
+                "lon": -110.96608067516807,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Immigrants are now Running the Detention Camps: Now Featuring a Zoo, a Nightclub, and a Daycare.",
+                "text": "Nogales was once known for being one of the busiest borders due to its long queues. Thirty years ago, it was exposed for enslaving immigrants and keeping them in small cages. Now, in the year 2027, immigrants have reclaimed control over the border and have installed a community center. Unfortunately, the center is now run by gang members and thugs. Nogales is nicknamed \"No aggares\" which is Spanish for \"do not take\" because Nogales only keeps those who are in and will bamboozle those who are not. However, local community members actually depend more on the organized crime groups than the government since Nogales was known as a failed city ran by corrupt cops and government officials. <br><br>One local who wishes to be referred to as \"Nena\" says she would rather stay and die in Nogales than face the atrocities and diseases abroad. <br><br>Unfortunately for Nena and hundreds of other Nogales locals, the Southwest is known for its century-old drought. The community is set to survive off of groundwater for the next 5 years... but will that buy them enough time to find an alternative to water?<br><br>Some locals are already migrating from Nogales 400 miles south where water is more abundant. Others suspect that there will be a civil war over water control coming soon..."
+            }
         },
-        "location": {
-            "lat": 33.74885973888191,       
-            "lon": -84.3898906994748,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 22:41:26",
+            "media": {
+                "url": "https://images.pexels.com/photos/3686686/pexels-photo-3686686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                "caption": "Air masks becoming a commodity as conditions worsen ",
+                "credit": "Silhouette of Man Wearing Helmet and Goggles, Alexander Zvir"
+            },
+            "location": {
+                "lat": 43.566653563079,
+                "lon": -70.21584316928238,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Buildings ransacked as arson and killings continue",
+                "text": "At least 40 more dead this week as multiple buildings have burned down. It seems as if the homeless population of South Portland have migrated into Cape. Multiple houses have already been looted and an equal number have been burned down. Cars and dead bodies litter the streets as people try and find any sense of safety and survival. People are talking saying that the last supermarket was burned to the ground. The air is dirty and smoggy, I can no longer go outside without a mask. The trees are beginning to die if they have not been burned down already, and the beaches are a wasteland; a wasteland of people and dirty water. Fifteen years ago people would swim at the beach every single day in the summer, now there are few left. All hope is lost, we will never come back from this. "
+            }
         },
-        "text": {
-            "headline": "Atlanta: Left Powerless",
-            "text": "The city of Atlanta, one of the few cities with access to power, has finally lost it after a riot that destroyed several crucial powerlines. With no energy left to enable alarm systems, homeowners and business owners are left defenseless in an environment where crime, theft, and murder have become an everyday occurrence for decades. As a result, chaos has enveloped the city as rioters take advantage of the lack of security and steal anything in sight. The already minimal police force can simply not keep up or have become rioters themselves as the gangs that bribe most of them have begun to take over. As people attempt to leave in the few vehicles left, rioters form blockades and kill anyone too unaware to stay inside and continue to drive through the mass of bodies. Gunfights can be heard everywhere. In an attempt to control the riots, the few remaining police forces threw gas into underground Atlanta, sealing off all exits and leaving the people below to suffocate amidst the chaos. Atlanta is no longer safe if it ever was. With the locals doing everything in their power to escape, it would be in everyone else’s best interest to steer far from the refugees and destruction of Atlanta. "
-        }
-    },
-    {
-        "date": "",
-        "media": {
-            "url": "assets/maarten-van-den-heuvel-zqR4Fpi6Lyo-unsplash.jpg",
-            "caption": "Lake Michigan's visibly contaminated water",
-            "credit": "Maarten van den Heuvel; Published on February 7, 2016; taken on a SONY, ILCE-5100"
+        {
+            "date": "4/1/2024 22:47:00",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.21.23 PM.png",
+                "caption": "An image of the city before the colapse. (No recent photographers have returned from the city with recent photographs)",
+                "credit": "Dutcher Aerials"
+            },
+            "location": {
+                "lat": 33.53288977872657,
+                "lon": -112.23224369850054,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "The Broken State of Phoenix, Arizona (and Reasons to Avoid it)",
+                "text": "The city of Phoenix once used to be a paradise in the desert for those looking for opportunities and success. The city has now become a broken-down hellscape terrorized by bandits and facing severe water shortages. With temperatures reaching 120 degrees on a regular basis, this city is the last place you want to travel to when there is a water shortage. People often die due to dehydration or heatstroke. Since the collapse of society, the population of Phoenix has resorted to theft and acts of violence in order to compete for the city's limited resources. These actions are only worsened by the heat which is said to leave people in delirious states that cause even more violence. We highly recommend staying far from the city and finding more rural alternatives where resources are less scarce. Due to the dangers the city poses, the group at the office has decided to rank Phoenix as a 3/10 in overall survival score. Until next time loyal readers, best of wishes. - The team at The Daily Survivor"
+            }
         },
-        "location": {
-            "lat": 43.750746408341236,       
-            "lon":  -87.71571605119846,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 23:03:01",
+            "media": {
+                "url": "assets/jan-kopriva-EPLrqHHu2WI-unsplash.jpg",
+                "caption": "A chilling up close-look on a blue eyed diamond-back rattle snake ",
+                "credit": "Photo by Jan Kop\u0159iva on Unsplash"
+            },
+            "location": {
+                "lat": 25.648494184679627,
+                "lon": -80.3165591554533,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "The Everglades are taking over Miami",
+                "text": "As the Everglade waters rise, the population of dangerous invasive species, particularly snakes, has grown at an exponentially alarming rate. We have been given information from a trusted source who is reporting a concerning increase in the number of incidences and sightings of these deadly reptiles.  Invasive pythons, cottonmouths, and Diamondback rattlesnakes are reported to be thriving in the degraded city and now commonly live in the crevices, walls, and holes of the city. This has driven death rates to skyrocket. When questioned about this dire situation, the police chief told us, \u201cIt is the snake\u2019s land now. The wilderness is taking back what once was there. There\u2019s nothing we can do.\u201d <br><br>As the city of Miami grapples with its new snake-infested realities, residents are urged to cover their legs, wear shoes, and be vigilant, especially during the night. Radio stations have been informed of the situation, and will broadcast daily ways to keep safe from this wild invasion. Antivenin is scarce, but certain people in the area have found ways to create it on their own, by immunizing donor animals and harvesting their antibodies that can bind to snake venom components to de-venom. It is crucial for residents to be informed, and the take suggested precautions."
+            }
         },
-        "text": {
-            "headline": "Lake Michigan Water Deemed Undrinkable as Thousands Die from Unidentified Disease",
-            "text": "While these times of fire, famine, and poverty have left no American citizen unaffected, it has been common thought that those in the Midwest have been the most fortunate. Although they too have had to leave their homes, burned down by pyro-addicts or driven out by inflation’s sky-high prices, those living in the Wisconsin-Illinois-Indiana-Michigan area have had a lifeline: Lake Michigan. As they traveled up North, often trying to reach Canada, wanderers stayed close to the lake’s shores. In addition to providing those with a clear route, Lake Michigan’s water gave a chance for survival. <br><br>Of course, this body of water has been contaminated ever since significant numbers of citizens began their northern treks. With no standardized place to use the restroom, the body of water was a natural choice. But now, the issue has turned extreme. A new disease, which is able to withstand all decontamination efforts—purification tablets, boiling, etc—has taken the lives of thousands. The first case was seen in Sheboygan, Wisconsin, a city one hour by car from Milwaukee. At first, many thought the illness to be cholera, but new symptoms have proven the disease to be a new mutation. Those who contract the sickness start by vomiting, but soon begin to bleed from their eyes and die a slow, painful death. No water is safe. Be cautious. "
-        }
-    },
-    {
-        "date": "",
-        "media": {
-            "url": "assets/photo-1695733594264-5ede1a8177bc.jpg",
-            "caption": "Nuclear Fallout Rolling Over Mecklenburg County",
-            "credit": "Swipe9"
+        {
+            "date": "4/1/2024 23:13:43",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.25.26 PM.png",
+                "caption": "Cracked Desert Floor",
+                "credit": "https://www.istockphoto.com/photo/cracked-earth-gm453691845-25820297"
+            },
+            "location": {
+                "lat": 32.019034,
+                "lon": -110.976739,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Tucson hit 150 degrees in 54 days in 2027, setting another heat record. ",
+                "text": "Arizona has beat its own record again with 146 degrees. The sweltering summer of 2027 has hit another historic heat wave stretching from Texas across New Mexico and Arizona into California\u2019s desert. The heat has made the land more susceptible to fires. What seems to be the last of the trees have been burnt. <br><br>The Sonoran Desert is littered with dead bodies of those who are attempting to cross the Mexican border. Though the border was once guarded by the National Guard, those days are long gone. <br><br>Those who flee from Mexico are heading North in search of cooler temperatures, more job opportunities and safety from the cartels. Cartels are currently supporting mass amounts of pyro which are responsible for the startups of several fires across the Sonoran Desert and the mountains. <br><br>Tucson and Phoenix are now abandoned due to the extreme heat that have deemed it lethal to live in the desert. Many of those attempting to traverse across the border do not make it due to scarce shelter from the smelting heat, alongside a lack of water and food. "
+            }
         },
-        "location": {
-            "lat": 35.499229634644536,       
-            "lon":  -80.84922840849703,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/1/2024 23:42:18",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.26.05 PM.png",
+                "caption": "Rats burrow their way into unexpected places, even Harbor Springs, Michigan. ",
+                "credit": "Damian Kuzdak"
+            },
+            "location": {
+                "lat": 45.43166888735809,
+                "lon": -84.99212033700077,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Harbor Springs Over-run by Rats!",
+                "text": "Disease-ridden rats have invaded the once quaint and unassuming town of Harbor Springs. Despite the town's estimated population of 1,200, roughly 3,000 rats have been roaming the streets and transmitting disease. Once known for its spectacular restaurant establishments and picturesque downtown, Harbor Springs is now suffering. The many alleyways behind restaurant kitchens have become breeding grounds of disease for rats. These rats carry Hantavirus and Rat Bite Fever, both fatal diseases. Transmitted by bite, these viruses require immediate diagnosis and treatment. Resident, Matthew Holmes, began to notice the influx of rats at the back of his walled home. Holmes states, \u201cOne day I noticed a few as I was taking out my trash and every day since they have either doubled or tripled. Someone\u2019s got to do something about this.\u201d Emmet County authorities claim they have been seeking extermination chemicals to be manufactured and expedited to the city. The death toll in Harbor Springs has hit close to 300 residents and 56 unidentified bodies. Harbor Springs Hospital can not accommodate any more patients at this time and was unable to make a statement. The uniquely strong community throughout these difficult circumstances has put Harbor Springs on the map. The small yet mighty community rallies around its rat-effected residents yet may ultimately face abandonment in the coming years. <br><br> "
+            }
         },
-        "text": {
-            "headline": "Death Count Rising from Duke Power Plant Explosion",
-            "text": "On June 19th, 2025, a group of armed and unidentified individuals managed to break into the Duke McGuire Nuclear Station and destroyed several parts of the facility, resulting in a plant-wide power loss that led to a critical loss of power in the reactor cooling system. The resulting short-range explosion left all within the facility dead, and the fallout released spread in an estimated elliptical radius, extending up to twelve miles northwards and eight miles towards the south. Officials are advising against leaving shelter for another few days. Presently, three days after the incident, the highest estimated death counts are in Davidson and just west of Cornelius. Researchers speculate this to be because of the good weather increasing a characteristically high quantity of pedestrian traffic, combined with many Charlotte-Mecklenburg schools being out for summer. While currently unclear, at least five hundred deaths have been reported and this number is expected to rise dramatically as more individuals experience acute radiation poisoning. The delayed warnings and sirens are currently under investigation and are presently attributed to equipment malfunction. Officials are increasing the security at the Catawba Duke Nuclear Plant in fear of copycat attacks, while the motive of the original group is unclear. The bodies have yet to be found and recovered, but footage suggests that they used a combination of homebrew incendiaries and explosives. "
-        }
-    },
-    {
-        "date": "",
-        "media": {
-            "url": "assets/pexels-photo-1498250.jpeg",
-            "caption": "Could amusement parks make a come back in the US?",
-            "credit": "https://www.pexels.com/@enginakyurt/"
+        {
+            "date": "4/1/2024 23:47:35",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.26.47 PM.png",
+                "caption": "97 megaton explosion caught by satellite ",
+                "credit": "celafon"
+            },
+            "location": {
+                "lat": 37.79066464771985, 
+                "lon": -122.46815624349746,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "SF Is Lost due to 4th Generation Nuclear Weapons, Detonated by Pyros",
+                "text": "2:57 PM August 31, 2027 - Shockwaves have been felt around the world today as a 97 megaton nuclear weapon was detonated over San Francisco Bay. Launch reports erupted at 11:34 AM August 31, 2027 from Kitsap Naval Base, Bangor, Washington. The White House has gone silent after this catastrophe and rumors are reported that high level personnel who would be responsible for this were allegedly drugged with pyro. The number of casualties are unreliable at the moment as we are only hours past the event. Life threatening damage has been reported to extend past 170 miles of the initial blast location, to locations past Salinas. These are only the preliminary reports. <br><br>10:56 AM September 1, 2027 - After nearly a day after the event, visual of the remains are able to be reported. Satellite images show that land within 10 miles of the initial detonation site has been erased. Casualty estimations are extending past 4.3 million as deaths are being reported in locations as for as 177 miles away. An upheaval of emotions from surviving victims of the tragedy are being seen online as demands for who is responsible are made. It is advised for survivors within 200 miles of San Francisco to evacuate their homes to avoid nuclear fallout and the upsurge of violence following the detonation. More to come later this afternoon. "
+            }
         },
-        "location": {
-            "lat": 40.384977488934524,       
-            "lon":  -79.86107355460476,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/2/2024 0:04:06",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.27.53 PM.png",
+                "caption": "Syringes used to contaminate individuals with polio. Bloody water ruins traces of evidence. ",
+                "credit": "Wavebreakmedia"
+            },
+            "location": {
+                "lat": 48.11254379556043,
+                "lon": -98.85785577766134,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Devils Lake Turns Humans to The Devil Worshipers ",
+                "text": "In Devils Lake North Dakota, the once resilient Devils lake is no longer a means of support for the people there. While already facing their own crisis of looting, arsine, and suicides the town is now facing, what the local towns people are calling, devil worshipers. While very closely related to the town name the devil worshipers have been described as deranged, murderous, and destructive. The individuals that were once human, turning into a Devil Worshiper are linked to a mutated strand of the Polio Virus that is derived from vaccines given in the early 90's. However, many of the individuals now known as devil worshipers derive their name from two actions. The first is performing satanic rituals with fire and consuming the lake's bloody water as part of their ritual. The second is their communication is in tongues and their need to infect other people through syringes, laced with cyanide, containing the polio vaccine. While the towns people speculate it is from consuming the devils bloody water the CDC has confirmed it is due to the polio vaccine. While the CDC expected symptoms such as paralysis, death, fever, or fatigue many individuals are experiencing irregular symptoms due to the waters influence."
+            }
         },
-        "text": {
-            "headline": "THRILL SEEKING...THE OLD FASHIONED WAY",
-            "text": "Local neighborhoods encompassing Braddock, Pittsburgh have begun to develop a new rehabilitation strategy for recovering Pyro addicts: letting them take their hit and enjoy the effects...within the safety of decommissioned theme park attractions. Dr. Lory Dale, once part of the Food and Drug Administration, explained her reasoning to us in an interview last Thursday within the previously defunct Kennywood Theme Park. 'Pyro addicts have wreaked havoc on this country, and I'm not trying to defend any of what they've done. But what people don't realize is a lot of them are kids looking for a way to make something for themselves with what little power they feel they have, even if that means burning everything to the ground. Whether they want community, power, or some combination of both, they take the pill. We're here to provide a way out.' Dale took us to Musical Express, a spinning carousel of flashing lights and exciting music. From where we stood, we could see some addicts on board, screaming and singing along, but no fires. 'It's too expensive to run the full park with the security and other expenses' Dale continued, 'but as long as we get the flashier rides going and keep a couple of 'break' rooms for those craving bigger hits, it works. But I want to make this clear: it is a lot less expensive to prevent these things than to try and ease them later. There is still a lot of work to be done.'"
-        }
-    },
-    {
-        "date": "",
-        "media": {
-            "url": "assets/mars.png",
-            "caption": "A New Dust Bowl: Hell on Earth",
-            "credit": "Alexander Mils (@alexandermils) "
+        {
+            "date": "4/2/2024 0:23:32",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.28.54 PM.png",
+                "caption": "Arson fires by \"sharers\" are decimating Boston and the greater North.",
+                "credit": "Ricardo Gomez Angel (*I couldn't find the image credit)"
+            },
+            "location": {
+                "lat": 42.35002188486481,
+                "lon": -71.08138462337477,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Arson, Sharers, and Southerners: Should Massachusetts Build a Wall?",
+                "text": "What once was a street full of life, stores, and entertainment is now a ghost town. A group of young to middle-aged people committed arson, setting Back Bay Street in Boston, Massachusetts on fire. Witnesses say that an 18-year-old female, who is the suspected leader, appeared to be giving orders to the other arsonists. There are rumors that she is dangerous: she is a \u201csharer.\u201d According to local scientists, sharers can experience other people\u2019s pain as if it were their own. The city police suspect that the rest of the group may be \u201csharers\u201d as well. They left a note in the middle of the burned-down street saying, \u201cThere will be no more pain.\u201d Local authorities suspect that the \u201csharers\u201d are trying to eliminate non-sharers in order to live pain-free. Similar attacks have been reported in other northern states such as Maine, New York, and Connecticut. These arson attacks have risen alongside an influx of southern Americans moving to the north. Due to this apparent correlation, there is a political war about accepting Southerners. Do we accept the southerners, or, as some people say, \u201csend them back to where they came from?\u201d Further, people in Boston and the greater north argue that the Southerners are stealing their jobs. Southerners are more desperate to accept any kind of work, even slave work, at cheap prices. There are currently debates as to whether or not Massachusetts will build a wall to prevent further \u201cSouthern\u201d damage. More on this developing news story. "
+            }
         },
-        "location": {
-            "lat": 34.856762591801115,      
-            "lon":   -111.80323213807424,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/2/2024 0:46:37",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.29.29 PM.png",
+                "caption": "The works of a deadly disease",
+                "credit": "Ben Hershey"
+            },
+            "location": {
+                "lat": 42.35788439587913,
+                "lon": -71.06204508785352,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "The spread of Necrotizing Fasciitis in Boston Massachusetts",
+                "text": "Necrotizing fasciitis, also known as flesh-eating bacteria, is rapidly spreading across Boston. Many people have untreated injuries, making it easy for the bacteria to enter the wounds and spread in the body. This disease is incredibly painful and can be deadly if not treated by a doctor. With people unable to afford medical care, many cases have been left untreated, causing the bacteria to spread. The disease spreads fast, with the bacteria eating away at the skin and muscles fairly quickly. With no real way of keeping the wounds clean and unexposed, the number of cases has increased drastically and is said to only get worse. Many are desperate to survive and have taken matters into their own hands, picking at the scabs and wounds that the bacteria leave behind. This has only made matters worse, as it has increased the spread of the bacteria. As of now, there are reported cases of more than half of the homeless people carrying this disease and even more cases of people who have died because of it."
+            }
         },
-        "text": {
-            "headline": "The New World's Dust Bowl",
-            "text": "Sedona, Arizona has been hit harder than most with the catastrophic lack of rain this New World has brought with it. Reminiscent of long ago, far-worse times, the land and soil have dried layers deep and nothing is holding it compact. As such, any gust of wind results in blinding, unbreathable conditions. When you couple that with the increased power and frequency of windstorms and tornadoes, it is a wonder Sedona hasn’t been completely buried yet.<br><br> Most sensible residents have already vacated their homes unprepared for dealing with the constant barrage of uprooted ground matter. However, those who can’t leave are forced to deal with the continually worsening dust conditions.<br><br> Recently, the strongest windstorm Sedona residents had even seen swept through and over the already dying city. It not only swept up the already displaced dust but also uprooted another 3 inches of ground soil. This storm destroyed houses, and the ones it didn’t destroy it completely covered in dirt and dust.<br><br> Many homeowners were not able to leave, or more appropriately escape, their homes. Residents relied on luckier community members and the failing rescue squads to save them. Those who could not afford to be rescued, did not have enough goodwill with the community, or simply lived isolated, died in their homes of asphyxiation or starvation. <br><br>This is just another of the repeated dust storms ravaging this community, but to date, it has been the most deadly with the accurate count still unknown and growing."
-        }
-    },
-    {
-        "date": "",
-        "media": {
-            "url": "assets/stpete.png",
-            "caption": "Man traveling to work in the submerged city.",
-            "credit": "https://www.pexels.com/@david-suarez-441816989/"
+        {
+            "date": "4/2/2024 1:02:01",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.30.07 PM.png",
+                "caption": "An image of a police truck driving through the destroyed town outskirts.",
+                "credit": "I can't find the credit but it was in partnership with Getty Images."
+            },
+            "location": {
+                "lat": 38.98415044188346,
+                "lon": -94.6715067367149,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Overland Park Succumbs to Pyro",
+                "text": "In recent news, Overland Park, Kansas has succumbed to the destructive effects of Pyro and its usage in different states across the nation. The drug has been widely known throughout the city to be the cause of multiple small house fires, and due to a severe lack of food and water across the board, many have turned to Ro as a last resort in order to feel some type of pleasure before their eventual demise. Sadly, this drug has run rampant in the Overland Park community, killing thousands and injuring an immense amount of impoverished folks in the city. The drug eventually made its way through the labourers to the families of the drivers, eventually leaving the city without structure or purpose. The police plan to collect the bodies of the dead before they are used for cannibalism--they were not able to help with the sheer amount of fires, and in an effort to demonstrate pity, the local police force is determined to properly bury and honor the deceased bodies. They have started the cleanup process with the wealthy, and they aim to gradually collect the bodies of the poor until the streets are clean. Some speculate that Overland Park will henceforth become a police center that will house training facilities and work as a police hub for other states in need of justice. However, the fate of Overland Park is largely unknown. <br><br>This story is breaking and will be updated soon."
+            }
         },
-        "location": {
-            "lat": 27.767433394993652,       
-            "lon":  -82.6373133166768,
-            "line": true,
-            "zoom": 18
+        {
+            "date": "4/2/2024 1:15:27",
+            "media": {
+                "url": "assets/chris-gallagher-9Jgn8hSYUFc-unsplash.jpg",
+                "caption": "Loyalhanna Flooding",
+                "credit": "Free to use under the Unsplash License"
+            },
+            "location": {
+                "lat": 40.24543025442182,
+                "lon": -79.24500655608973,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Ligonier PA: The Flooded Graveyard ",
+                "text": "In the past week, over 200 bodies have been discovered washed up near Ligonier\u2019s elevated creek banks. The once peaceful township of Ligonier has experienced consecutive, and escalating floods in the past six months. <br><br>Last month, the township fell victim to a particularly heavy flash flood, which wiped out countless structures and utilities from the creeks to Route 381. Tragically, four neighborhoods situated near the Loyalhanna Creek were completely decimated. Every resident was reported deceased or missing, presumably due to drowning. Three neighborhoods near the Loyalhanna were fully submerged underwater at the peak of this flash flood. Much of the flood water has been cleared in the past month, through absorption and runoff, however water levels are still high near the creeks. <br><br>In the past decades, Ligonier has experienced occasional mild flooding following heavy rainfall and melting snow, mostly affecting poorly constructed properties closer to creek levels and smaller utilities. The heightened floods are now affecting walled neighborhoods: polluting drinking water systems and causing major damage to homes and the walls themselves. One wall along the Loyalhanna has been reported to collapse completely, displacing the residents. <br><br>The remaining residents of Ligonier have situated themselves in the few intact neighborhoods in the mountains. These individuals choose to avoid the creeks, with one resident commenting that the banks have become somewhat of a mass graveyard. <br><br>"
+            }
         },
-        "text": {
-            "headline": "Water levels in Florida cause housing to be submerged!!!",
-            "text": "Recently, in St. Petersburg, Florida, waters levels have been rising uncontrollably. Water levels in Florida have always been a problem due to global warming, but now it has taken a turn for the worse. Residents of Bradenton had built walls to protect the community from flooding, but now the water levels have risen above the walls. The city completely flooded, with houses and buildings being partially submerged in water. Sea life has also ventured into the town, while providing an easy food source, has also made the town dangerous to stay in due to dangerous marine animals inhabiting the city. People have fled St. Petersburg and causing people to leave the town and venture to the very dangerous and pyro-overridenn Tampa. "
-        }
-    }                          
+        {
+            "date": "4/2/2024 1:15:55",
+            "media": {
+                "url": "https://images.pexels.com/photos/60893/tunnel-underground-underpass-lighting-60893.jpeg",
+                "caption": "Here is an example of an underground tunnel that mole people will soon take over and turn it into their humble abode.",
+                "credit": "Pixabay"
+            },
+            "location": {
+                "lat": 39.766333647922856,
+                "lon": -104.9917680750884,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "DENVER: The City of Moles",
+                "text": "In 2023, Denver CO had over 9,000 homeless citizens residing within its boarders. Now, the number has almost sextupled in size. With over, an estimated, 60,000 people living in the streets, these homeless people have been forced to retreat among the mountains as they run away from the dangers that reside within the city streets. However, not all have chosen to run away. Over 11,000 people have been estimated to be living under the streets of Denver, in sewers, utility basements, and even man-made tunnels. These people have been known, for almost a century, as mole people. Mole people is a term used to describe homeless people who live below ground. Moreover, this statistic has meant that Denver has become the leading city in terms of its mole people population. This recognition and title, however, has not meant good news for the city of Denver. With the population of mole people at an all time high and the number growing on a daily basis, the conditions of the underground structures in which these people reside in has deteriorated at an exponential rate. With cracks visible along the streets, sink holes appearing everyday, and foreshock-like trembles happening regularly, it is only a matter of time until these underground communities to be completely wiped out and destroyed."
+            }
+        },
+        {
+            "date": "4/2/2024 1:29:12",
+            "media": {
+                "url": "assets/kevin-west-YmHbFbZ9gLM-unsplash.jpg",
+                "caption": " 1300 Miles to the Heart of the Wild West",
+                "credit": "https://unsplash.com/@kevinwestcreative"
+            },
+            "location": {
+                "lat": 37.79701034451613, 
+                "lon": -100.0228815768648,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "DODGE CITY DODGES NO MORE!",
+                "text": "Dodge City, Kansas, known for it's Wild West history, is now facing a challenging period.  A disease no one have heard of before, COVID-19 has devastated the community, causing severe shortages of healthcare professionals, a critical water shortage, and a chilling rise in violence. Despite the town's limited medical facilities, there aren't enough healthcare workers to deal with the surge in cases. Many of them feel helpless in the face of the crisis due to long shifts and losing patients every day. Adding to the difficulty, Dodge City has run out of water. Residents are fighting for a dwindling life source. Fights over resources are happening a lot more often and are getting violent, which is really concerning. Because they are desperate, the quest for survival has turned neighbors against one another. The neighborhood falls into chaos, similar to the lawlessness of the Wild West, because the local police, who are already overwhelmed, can't control the outbreaks of violence.There has never been a more pressing need for a solution than now, as Dodge City teeters on the verge of disintegration from its once cohesive community. A beacon of light in a world becoming dark, the town's screams for assistance are evocative to the cholera outbreak in Missippi, but as usual, the government couldn't care less. The community's ability to bounce back from this unprecedented challenge is put to the test, and the road to recovery is not clear.            <br><br> MAKE SURE YOU DODGE THAT COUGH!<br><br>"
+            }
+        },
+        {
+            "date": "4/2/2024 2:32:41",
+            "media": {
+                "url": "assets/Screenshot 2024-04-02 at 10.32.24 PM.png",
+                "caption": "Due to extreme weather, wind turbines across Iowa are broken. ",
+                "credit": "Author: Theodore Scott. License: Creative Commons, Attribution 2.0 Generic."
+            },
+            "location": {
+                "lat": 43.5049117648482,
+                "lon": -94.08753475064778,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "BREAKING NEWS: Tornado Rips Through Town, Wind Farm",
+                "text": "Residents of Elmore, MN faced the full force of an EF-3 tornado reaching maximum speeds of 147 mph on Tuesday afternoon. The 200-odd residents still living on the northern edge of Tornado Alley following years of extreme weather are now without electricity. <br><br>Early reports document upwards of 32 deaths and dozens of injuries. The eastern edge of the town was hit hardest: eight houses\u2013already in disrepair\u2013were completely leveled.<br><br>Authorities report the tornado touched down outside Lakota, IA before traveling straight North. The Ledyard wind farm was also affected. Many of its 46 Vesta V150 4.5-MW turbines were toppled by the winds. <br><br>Of the turbines still standing, most lack blades: they were torn off by the winds and became deadly projectiles. Fortunately, most landed in long-abandoned fields. <br><br>Over 60,000 homes in Iowa that depended on the Ledyard farm are now without power. <br><br>A spokesperson for Charlotte-based Duke Energy, which holds majority control over the Ledyard wind farm, said repairs won\u2019t be made any time soon. <br><br>\u201cAt the end of the day, we\u2019ve gotta look at the bottom line. It\u2019s simply too exp\u2013it\u2019s too dangerous for the surrounding communities, and we\u2019re better off relocating to a more stable area.\u201d <br><br>The new Ledyard plant is the primary employer for Elmore residents. Bolstered by security guarantees, it has become known for dangerous working conditions and subpar compensation. But residents don\u2019t know what they\u2019ll do if Duke Energy leaves the area. <br><br>\u201cIt\u2019s becoming impossible to live here. Duke is the only thing keeping stores stocked. My neighbors are trying to convince me to move up to Brainerd with them, they say things are better there.\u201d <br><br>"
+            }
+        },
+        {
+            "date": "4/2/2024 7:23:35",
+            "media": {
+                "url": "https://images.pexels.com/photos/9184517/pexels-photo-9184517.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "caption": "Flash floods submerging San Antonio, TX into the Gulf of Mexico after devastating thunderstorms.",
+                "credit": "https://www.pexels.com/@iurii-laimin-78973777/"
+            },
+            "location": {
+                "lat": 29.42175,
+                "lon": -98.48985,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "WEATHER ADVISORY: THUNDERSTORMS AND FLASH FOODS DEVASTATE SAN ANTONIO, TX",
+                "text": "San Antonio, Texas was hit with another series of thunderstorms this past weekend. The thunderstorms continue their erratic behavior, devastating the landscape and any life that has managed to exist still. Officials have sent out a flash flood warning, advising anyone who can head further north to do so. Lightning will strike anywhere it sees fit and the floods will take over your homes (if they have not already been damaged by lightning and constant flooding). San Antonio is soon to be submerged along with the rest of southern Texas and become part of the Gulf of Mexico. There have been gas leaks around the city and any chance of having a clean source of water has been diminished. The floodwaters are continuing to be contaminated with sewage and chemicals. Due to global climate change, there is an increasing frequency and intensity of lightning. Live power lines have been the targets of many of these lightning strikes, making it incredibly dangerous for anyone to stay long enough in the city to be in the floodwaters. Trees have felt the worst of these strikes, with over 100,00 acres of the once tree canopy being damaged to what seems beyond repair. Take extreme caution. Leave the city. Seek higher ground. No one is safe."
+            }
+        },
+        {
+            "date": "4/2/2024 9:01:59",
+            "media": {
+                "url": "https://www.pexels.com/photo/tornado-on-the-desert-9345986/",
+                "caption": "Tornado tears through Alabama, headed for Texas.",
+                "credit": "photographed by Thilani Ratheep"
+            },
+            "location": {
+                "lat": 32.780755228131476,
+                "lon": -97.20560925810986,
+                "line": true,
+                "zoom": 18
+            },
+            "text": {
+                "headline": "Tornado headed for Fort Worth Texas: resident either brace for impact or run",
+                "text": "Late last night, news radios across the state of texas cause chaos as they warn residents of the biggest tornado the country has seen in years headed right at them. The storm has winds with speeds over 150 miles per hour and threatens to dessimate much of the fort worth metropolitan area. People have begin taking cover in miscellaneous rubble, some are able to find structures, but it is unclear the level of security that will be needed to survive. concidering the lack of resources already present in the metropolitain area, competition has only increased with the looming threat of the tornado. It is reported that about half of the population fanned out and began to head for neighboring states, but it is unclear how many of them will make it through the boarders. Even so, the damage will be wide spread and severe. It is wise to take cover and hope for the best. "
+            }
+        }                        
 	  ],
 	  "map_type": "stamen:watercolor",
 	  "call_to_action_text": "",
